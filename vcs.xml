@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/macdja38/pvpcraft" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ging0044/manga" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\macdja38\WebstormProjects" />
