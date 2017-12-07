@@ -5,6 +5,7 @@
       <mapping ext="mjs" type="JavaScript" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="createDB" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
