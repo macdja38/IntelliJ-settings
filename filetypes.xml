@@ -3,10 +3,8 @@
     <extensionMap>
       <removed_mapping ext="mjs" type="ECMAScript 6" />
       <mapping ext="mjs" type="JavaScript" />
-      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern="createDB" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
