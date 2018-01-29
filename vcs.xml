@@ -51,7 +51,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/bearium/PersonalWebsite" />
+          <option name="url" value="https://github.com/macdja38/eris" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/macdja38/manga.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/macdja38/pvpcraft.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
