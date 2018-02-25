@@ -10,55 +10,55 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/evalbot/main.js" timestamp="1519526277427">
-        <mark key="[" line="56" column="25" />
-        <mark key="]" line="56" column="24" />
-        <mark key="^" line="56" column="24" />
-        <mark key="." line="56" column="24" />
+      <file name="$USER_HOME$/WebstormProjects/evalbot/main.js" timestamp="1519530433749">
+        <mark key="[" line="425" column="26" />
+        <mark key="]" line="425" column="45" />
+        <mark key="^" line="425" column="25" />
+        <mark key="." line="425" column="26" />
       </file>
     </filemarks>
     <jumps>
       <jump line="7" column="2" filename="$USER_HOME$/WebstormProjects/evalbot/porttest.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Messagecount === &quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Messagecount === &quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>'serialport'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U2VyaWFsUG9ydC5saXN0KGZ1bmN0aW9uIChlcnIsIHBvcnRzKSB7CiAgcG9ydHMuZm9yRWFjaChmdW5jdGlvbihwb3J0KSB7Cg==</text>
+      <register name="0" type="4">
+        <text>Messagecount === &quot;&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">aWYoaXNOYU4oTWVzc2FnZWNvdW50KSkgcmV0dXJuIG1lc3NhZ2UuY2hhbm5lbC5zZW5kTWVzc2FnZSgiUGxlYXNlIHVzZSBhIG51bWJlciEgRXg6IDtwdXJnZSAyIik7CmlmKE1lc3NhZ2Vjb3VudCA9PT0gIiIpIHJldHVybiBtZXNzYWdlLmNoYW5uZWwuc2VuZE1lc3NhZ2UoIlBsZWFzZSB1c2UgYSBudW1iZXIhIEV4OiA7cHVyZ2UgMiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvcnRzLmZvckVhY2goZnVuY3Rpb24ocG9ydCkgewo=</text>
+        <text encoding="base64">ICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcG9ydHMuZm9yRWFjaChmdW5jdGlvbihwb3J0KSB7Cg==</text>
+        <text encoding="base64">ICAgIHBvcnRzLmZvckVhY2goZnVuY3Rpb24ocG9ydCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
+        <text encoding="base64">ICAgICAgcG9ydHMuZm9yRWFjaChmdW5jdGlvbihwb3J0KSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBvcnRzLmZvckVhY2goZnVuY3Rpb24ocG9ydCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9ydHMuZm9yRWFjaChmdW5jdGlvbihwb3J0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBvcnRzLmZvckVhY2goZnVuY3Rpb24ocG9ydCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9ydHMuZm9yRWFjaChmdW5jdGlvbihwb3J0KSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'serialport'/'SerialPort'</text>
@@ -79,6 +79,7 @@
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
         <entry>%s/'serialport'/'SerialPort'</entry>
+        <entry>vi</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
