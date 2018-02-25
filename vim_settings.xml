@@ -1,0 +1,90 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/WebstormProjects/evalbot/porttest.js" timestamp="1519526906646">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/evalbot/main.js" timestamp="1519526277427">
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="56" column="24" />
+        <mark key="^" line="56" column="24" />
+        <mark key="." line="56" column="24" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="7" column="2" filename="$USER_HOME$/WebstormProjects/evalbot/porttest.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text>'serialport'</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">U2VyaWFsUG9ydC5saXN0KGZ1bmN0aW9uIChlcnIsIHBvcnRzKSB7CiAgcG9ydHMuZm9yRWFjaChmdW5jdGlvbihwb3J0KSB7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBvcnRzLmZvckVhY2goZnVuY3Rpb24ocG9ydCkgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcG9ydHMuZm9yRWFjaChmdW5jdGlvbihwb3J0KSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHBvcnRzLmZvckVhY2goZnVuY3Rpb24ocG9ydCkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcG9ydHMuZm9yRWFjaChmdW5jdGlvbihwb3J0KSB7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/'serialport'/'SerialPort'</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>'serialport'</last-search>
+      <last-pattern>'serialport'</last-pattern>
+      <last-replace>'SerialPort'</last-replace>
+      <last-substitute>'serialport'</last-substitute>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>'serialport'</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/'serialport'/'SerialPort'</entry>
+        <entry>%s/'serialport'/'SerialPort'</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
