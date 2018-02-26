@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/WebstormProjects/everwing/mitm_everwing.py" timestamp="1519620900356">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/evalbot/porttest.js" timestamp="1519526906646">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="6" column="0" />
@@ -16,9 +19,27 @@
         <mark key="^" line="425" column="25" />
         <mark key="." line="425" column="26" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/everwing/main.js" timestamp="1519621020358">
+        <mark key="'" line="3610" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6072" column="30" />
+        <mark key="^" line="6072" column="30" />
+        <mark key="." line="6072" column="30" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="7" column="2" filename="$USER_HOME$/WebstormProjects/evalbot/porttest.js" />
+      <jump line="6090" column="0" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="6625" column="12" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="6605" column="21" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="4009" column="29" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="6599" column="40" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="6622" column="55" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="7359" column="308" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="7719" column="12" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="436" column="44" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="2994" column="94" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="3610" column="15" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -28,7 +49,7 @@
         <text>Messagecount === &quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>'serialport'</text>
+        <text>lenore</text>
       </register>
       <register name="0" type="4">
         <text>Messagecount === &quot;&quot;</text>
@@ -65,26 +86,43 @@
       </register>
     </registers>
     <search>
-      <last-search>'serialport'</last-search>
-      <last-pattern>'serialport'</last-pattern>
+      <last-search>lenore</last-search>
+      <last-offset />
+      <last-pattern>lenore</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>'serialport'</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>'serialport'</entry>
+        <entry>levelMultiplier:5</entry>
+        <entry>max:</entry>
+        <entry>=</entry>
+        <entry>maix</entry>
+        <entry>max</entry>
+        <entry>maxPremium</entry>
+        <entry>getFinalXP</entry>
+        <entry>xp</entry>
+        <entry>xper</entry>
+        <entry>lenore</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
         <entry>%s/'serialport'/'SerialPort'</entry>
         <entry>vi</entry>
+        <entry>max:</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
