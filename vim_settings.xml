@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/WebstormProjects/everwing/mitm_everwing.py" timestamp="1519620900356">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
+        <mark key="'" line="257" column="9982" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/evalbot/porttest.js" timestamp="1519526906646">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="6" column="0" />
@@ -40,6 +43,8 @@
       <jump line="436" column="44" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
       <jump line="2994" column="94" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
       <jump line="3610" column="15" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="3954" column="13" filename="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" />
+      <jump line="257" column="9982" filename="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -49,7 +54,7 @@
         <text>Messagecount === &quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>lenore</text>
+        <text>base\/coin&quot;</text>
       </register>
       <register name="0" type="4">
         <text>Messagecount === &quot;&quot;</text>
@@ -86,9 +91,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lenore</last-search>
+      <last-search>base\/coin&quot;</last-search>
       <last-offset />
-      <last-pattern>lenore</last-pattern>
+      <last-pattern>base\/coin&quot;</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>'serialport'</last-substitute>
       <last-dir>1</last-dir>
@@ -107,6 +112,10 @@
         <entry>xp</entry>
         <entry>xper</entry>
         <entry>lenore</entry>
+        <entry>gemSpawnChance:0.3</entry>
+        <entry>gemSpawnChance</entry>
+        <entry>base</entry>
+        <entry>base\/coin&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
@@ -123,6 +132,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
