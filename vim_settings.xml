@@ -9,12 +9,30 @@
       <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
         <mark key="'" line="257" column="9982" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/main.js" timestamp="1519881860919">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/thing.json" timestamp="1519879658038">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/evalbot/porttest.js" timestamp="1519526906646">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="2" />
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/findDasPort.js" timestamp="1519880820116">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="32" column="45" />
+        <mark key="." line="32" column="45" />
+        <mark key="^" line="32" column="45" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpclient/index.js" timestamp="1519878414036">
+        <mark key="'" line="23" column="34" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/evalbot/main.js" timestamp="1519530433749">
         <mark key="[" line="425" column="26" />
@@ -45,55 +63,56 @@
       <jump line="3610" column="15" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
       <jump line="3954" column="13" filename="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" />
       <jump line="257" column="9982" filename="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" />
+      <jump line="23" column="34" filename="$USER_HOME$/WebstormProjects/pvpclient/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Messagecount === &quot;&quot;</text>
+        <text>27301</text>
       </register>
       <register name="-" type="4">
-        <text>Messagecount === &quot;&quot;</text>
+        <text>27301</text>
       </register>
       <register name="/" type="4">
-        <text>base\/coin&quot;</text>
+        <text>requestPromise</text>
       </register>
       <register name="0" type="4">
         <text>Messagecount === &quot;&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYoaXNOYU4oTWVzc2FnZWNvdW50KSkgcmV0dXJuIG1lc3NhZ2UuY2hhbm5lbC5zZW5kTWVzc2FnZSgiUGxlYXNlIHVzZSBhIG51bWJlciEgRXg6IDtwdXJnZSAyIik7CmlmKE1lc3NhZ2Vjb3VudCA9PT0gIiIpIHJldHVybiBtZXNzYWdlLmNoYW5uZWwuc2VuZE1lc3NhZ2UoIlBsZWFzZSB1c2UgYSBudW1iZXIhIEV4OiA7cHVyZ2UgMiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyLm1lc3NhZ2UuaW5jbHVkZXMoIkVDT05OREVOSUVEIikpIHJldHVybjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyLikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYoaXNOYU4oTWVzc2FnZWNvdW50KSkgcmV0dXJuIG1lc3NhZ2UuY2hhbm5lbC5zZW5kTWVzc2FnZSgiUGxlYXNlIHVzZSBhIG51bWJlciEgRXg6IDtwdXJnZSAyIik7CmlmKE1lc3NhZ2Vjb3VudCA9PT0gIiIpIHJldHVybiBtZXNzYWdlLmNoYW5uZWwuc2VuZE1lc3NhZ2UoIlBsZWFzZSB1c2UgYSBudW1iZXIhIEV4OiA7cHVyZ2UgMiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcnRzLmZvckVhY2goZnVuY3Rpb24ocG9ydCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcG9ydHMuZm9yRWFjaChmdW5jdGlvbihwb3J0KSB7Cg==</text>
+        <text encoding="base64">ICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
+        <text encoding="base64">ICAgIHBvcnRzLmZvckVhY2goZnVuY3Rpb24ocG9ydCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBvcnRzLmZvckVhY2goZnVuY3Rpb24ocG9ydCkgewo=</text>
+        <text encoding="base64">ICAgICAgcG9ydHMuZm9yRWFjaChmdW5jdGlvbihwb3J0KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9ydHMuZm9yRWFjaChmdW5jdGlvbihwb3J0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3J0cy5mb3JFYWNoKGZ1bmN0aW9uKHBvcnQpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/'serialport'/'SerialPort'</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>base\/coin&quot;</last-search>
+      <last-search>requestPromise</last-search>
       <last-offset />
-      <last-pattern>base\/coin&quot;</last-pattern>
+      <last-pattern>requestPromise</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>'serialport'</last-substitute>
       <last-dir>1</last-dir>
@@ -116,12 +135,15 @@
         <entry>gemSpawnChance</entry>
         <entry>base</entry>
         <entry>base\/coin&quot;</entry>
+        <entry>requestPromise</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
         <entry>%s/'serialport'/'SerialPort'</entry>
         <entry>vi</entry>
         <entry>max:</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -135,6 +157,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
