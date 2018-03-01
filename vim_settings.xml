@@ -43,11 +43,10 @@
         <mark key="." line="32" column="45" />
         <mark key="^" line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/das-keyboard/Keyboard.js" timestamp="1519885445706">
-        <mark key="[" line="72" column="1" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/Keyboard.js" timestamp="1519888367205">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/evalbot/main.js" timestamp="1519530433749">
         <mark key="[" line="425" column="26" />
@@ -89,7 +88,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgS2V5Ym9hcmQgPSByZXF1aXJlKCIuL0tleWJvYXJkIik7CmNvbnN0IGtleWJvYXJkID0gbmV3IEtleWJvYXJkKCJlZGU5MWNlMzJkZGJhYmM1Nzk1ZmNkYWVlZDQ2M2ExZiIpOwo=</text>
+        <text encoding="base64">ICAgICAganNvbjogdHJ1ZSwK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -97,35 +96,35 @@
       <register name="/" type="4">
         <text>'serialport'</text>
       </register>
-      <register name="0" type="4">
-        <text>t Keyboard = require(&quot;./lib</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgS2V5Ym9hcmQgPSByZXF1aXJlKCIuL0tleWJvYXJkIik7CmNvbnN0IGtleWJvYXJkID0gbmV3IEtleWJvYXJkKCJlZGU5MWNlMzJkZGJhYmM1Nzk1ZmNkYWVlZDQ2M2ExZiIpOwo=</text>
+        <text encoding="base64">ICAgICAganNvbjogdHJ1ZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYm9keTogYXR0cmlidXRlcywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgcnAgPSByZXF1aXJlKCJyZXF1ZXN0LXByb21pc2UtbmF0aXZlIik7Cg==</text>
+        <text encoding="base64">Y29uc3QgS2V5Ym9hcmQgPSByZXF1aXJlKCIuL0tleWJvYXJkIik7CmNvbnN0IGtleWJvYXJkID0gbmV3IEtleWJvYXJkKCJlZGU5MWNlMzJkZGJhYmM1Nzk1ZmNkYWVlZDQ2M2ExZiIpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRldmljZSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgcnAgPSByZXF1aXJlKCJyZXF1ZXN0LXByb21pc2UtbmF0aXZlIik7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZpY2VzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRldmljZSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYUNvZGUgPSAiQSIuY2hhckNvZGVBdCgwKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZpY2VzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
