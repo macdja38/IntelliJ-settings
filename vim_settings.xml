@@ -1,0 +1,194 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
+        <mark key="'" line="257" column="9982" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/thing.json" timestamp="1519879658038">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/evalbot/porttest.js" timestamp="1519526906646">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpclient/index.js" timestamp="1519878414036">
+        <mark key="'" line="23" column="34" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/getToken.js" timestamp="1519966100908">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/everwing/mitm_everwing.py" timestamp="1519620900356">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/main.js" timestamp="1519886598985">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="36" column="12" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/deepmerge-test/main.js" timestamp="1519967427800">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/auth.js" timestamp="1519884302806">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/findDasPort.js" timestamp="1519880820116">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="32" column="45" />
+        <mark key="." line="32" column="45" />
+        <mark key="^" line="32" column="45" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/Keyboard.js" timestamp="1519888367205">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/evalbot/main.js" timestamp="1519530433749">
+        <mark key="[" line="425" column="26" />
+        <mark key="]" line="425" column="45" />
+        <mark key="^" line="425" column="25" />
+        <mark key="." line="425" column="26" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/everwing/main.js" timestamp="1519621020358">
+        <mark key="'" line="3610" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6072" column="30" />
+        <mark key="^" line="6072" column="30" />
+        <mark key="." line="6072" column="30" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/lib.js" timestamp="1519885205934">
+        <mark key="[" line="58" column="46" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="o" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="7" column="2" filename="$USER_HOME$/WebstormProjects/evalbot/porttest.js" />
+      <jump line="6090" column="0" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="6625" column="12" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="6605" column="21" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="4009" column="29" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="6599" column="40" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="6622" column="55" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="7359" column="308" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="7719" column="12" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="436" column="44" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="2994" column="94" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="3610" column="15" filename="$USER_HOME$/WebstormProjects/everwing/main.js" />
+      <jump line="3954" column="13" filename="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" />
+      <jump line="257" column="9982" filename="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" />
+      <jump line="23" column="34" filename="$USER_HOME$/WebstormProjects/pvpclient/index.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAganNvbjogdHJ1ZSwK</text>
+      </register>
+      <register name="-" type="4">
+        <text>0</text>
+      </register>
+      <register name="/" type="4">
+        <text>'serialport'</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAganNvbjogdHJ1ZSwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgYm9keTogYXR0cmlidXRlcywK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgS2V5Ym9hcmQgPSByZXF1aXJlKCIuL0tleWJvYXJkIik7CmNvbnN0IGtleWJvYXJkID0gbmV3IEtleWJvYXJkKCJlZGU5MWNlMzJkZGJhYmM1Nzk1ZmNkYWVlZDQ2M2ExZiIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgcnAgPSByZXF1aXJlKCJyZXF1ZXN0LXByb21pc2UtbmF0aXZlIik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRldmljZSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZpY2VzKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>'serialport'</last-search>
+      <last-offset />
+      <last-pattern>'serialport'</last-pattern>
+      <last-replace>'SerialPort'</last-replace>
+      <last-substitute>'serialport'</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>levelMultiplier:5</entry>
+        <entry>max:</entry>
+        <entry>=</entry>
+        <entry>maix</entry>
+        <entry>max</entry>
+        <entry>maxPremium</entry>
+        <entry>getFinalXP</entry>
+        <entry>xp</entry>
+        <entry>xper</entry>
+        <entry>lenore</entry>
+        <entry>gemSpawnChance:0.3</entry>
+        <entry>gemSpawnChance</entry>
+        <entry>base</entry>
+        <entry>base\/coin&quot;</entry>
+        <entry>requestPromise</entry>
+        <entry>'serialport'</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/'serialport'/'SerialPort'</entry>
+        <entry>%s/'serialport'/'SerialPort'</entry>
+        <entry>vi</entry>
+        <entry>max:</entry>
+        <entry>wq</entry>
+        <entry>s</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
