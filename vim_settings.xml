@@ -37,6 +37,9 @@
       <file name="$USER_HOME$/WebstormProjects/untitled1/test.js" timestamp="1520466029008">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/warframe.js" timestamp="1520826924635">
+        <mark key="'" line="198" column="20" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/deepmerge-test/main.js" timestamp="1519967427800">
         <mark key="[" line="0" column="0" />
       </file>
@@ -105,6 +108,10 @@
       <jump line="257" column="9982" filename="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" />
       <jump line="23" column="34" filename="$USER_HOME$/WebstormProjects/pvpclient/index.js" />
       <jump line="85" column="21" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/invites.js" />
+      <jump line="133" column="9" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/warframe.js" />
+      <jump line="202" column="31" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/warframe.js" />
+      <jump line="194" column="20" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/warframe.js" />
+      <jump line="198" column="20" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/warframe.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -114,7 +121,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>perms.check</text>
+        <text>&quot;pc&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
@@ -151,9 +158,9 @@
       </register>
     </registers>
     <search>
-      <last-search>perms.check</last-search>
+      <last-search>&quot;pc&quot;</last-search>
       <last-offset />
-      <last-pattern>perms.check</last-pattern>
+      <last-pattern>&quot;pc&quot;</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>'serialport'</last-substitute>
       <last-dir>1</last-dir>
@@ -178,6 +185,7 @@
         <entry>requestPromise</entry>
         <entry>'serialport'</entry>
         <entry>perms.check</entry>
+        <entry>&quot;pc&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
