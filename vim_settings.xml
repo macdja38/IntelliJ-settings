@@ -34,6 +34,9 @@
         <mark key="^" line="36" column="12" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/untitled1/test.js" timestamp="1520466029008">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/deepmerge-test/main.js" timestamp="1519967427800">
         <mark key="[" line="0" column="0" />
       </file>
@@ -50,6 +53,19 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/invites.js" timestamp="1520756915489">
+        <mark key="'" line="85" column="21" />
+        <mark key="[" line="85" column="21" />
+        <mark key="]" line="85" column="21" />
+        <mark key="." line="85" column="21" />
+        <mark key="^" line="85" column="21" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/untitled1/main.js" timestamp="1520148738599">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/evalbot/main.js" timestamp="1519530433749">
         <mark key="[" line="425" column="26" />
@@ -88,16 +104,17 @@
       <jump line="3954" column="13" filename="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" />
       <jump line="257" column="9982" filename="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" />
       <jump line="23" column="34" filename="$USER_HOME$/WebstormProjects/pvpclient/index.js" />
+      <jump line="85" column="21" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/invites.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAganNvbjogdHJ1ZSwK</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>'serialport'</text>
+        <text>perms.check</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
@@ -134,9 +151,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'serialport'</last-search>
+      <last-search>perms.check</last-search>
       <last-offset />
-      <last-pattern>'serialport'</last-pattern>
+      <last-pattern>perms.check</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>'serialport'</last-substitute>
       <last-dir>1</last-dir>
@@ -160,6 +177,7 @@
         <entry>base\/coin&quot;</entry>
         <entry>requestPromise</entry>
         <entry>'serialport'</entry>
+        <entry>perms.check</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
