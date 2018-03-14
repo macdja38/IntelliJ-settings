@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
-        <mark key="'" line="257" column="9982" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/thing.json" timestamp="1519879658038">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,26 +20,22 @@
       <file name="$USER_HOME$/WebstormProjects/pvpclient/index.js" timestamp="1519878414036">
         <mark key="'" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/das-keyboard/getToken.js" timestamp="1519966100908">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="12" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="10" column="12" />
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" timestamp="1520997613953">
+        <mark key="'" line="135" column="17" />
+        <mark key="[" line="180" column="21" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/everwing/mitm_everwing.py" timestamp="1519620900356">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/test2.js" timestamp="1520998668765" />
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/main.js" timestamp="1519886598985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="36" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/test.js" timestamp="1520917420716">
-        <mark key="[" line="0" column="163" />
-        <mark key="]" line="0" column="163" />
-        <mark key="^" line="0" column="163" />
-        <mark key="." line="0" column="163" />
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/test.js" timestamp="1520998672186">
+        <mark key="[" line="90" column="4" />
+        <mark key="]" line="88" column="6" />
+        <mark key="^" line="88" column="6" />
+        <mark key="." line="88" column="6" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/untitled1/test.js" timestamp="1520466029008">
         <mark key="[" line="0" column="0" />
@@ -51,6 +44,44 @@
         <mark key="'" line="198" column="20" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/deepmerge-test/main.js" timestamp="1519967427800">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1520997652555">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/untitled1/main.js" timestamp="1520148738599">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/evalbot/main.js" timestamp="1519530433749">
+        <mark key="[" line="425" column="26" />
+        <mark key="]" line="425" column="45" />
+        <mark key="^" line="425" column="25" />
+        <mark key="." line="425" column="26" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/lib.js" timestamp="1519885205934">
+        <mark key="[" line="58" column="46" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="o" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
+        <mark key="'" line="257" column="9982" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/das-keyboard/getToken.js" timestamp="1519966100908">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/objectStorage.js" timestamp="1520998658487">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/everwing/mitm_everwing.py" timestamp="1519620900356">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/auth.js" timestamp="1519884302806">
@@ -74,31 +105,12 @@
         <mark key="." line="140" column="23" />
         <mark key="^" line="140" column="23" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled1/main.js" timestamp="1520148738599">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/evalbot/main.js" timestamp="1519530433749">
-        <mark key="[" line="425" column="26" />
-        <mark key="]" line="425" column="45" />
-        <mark key="^" line="425" column="25" />
-        <mark key="." line="425" column="26" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/main.js" timestamp="1519621020358">
         <mark key="'" line="3610" column="15" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6072" column="30" />
         <mark key="^" line="6072" column="30" />
         <mark key="." line="6072" column="30" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/das-keyboard/lib.js" timestamp="1519885205934">
-        <mark key="[" line="58" column="46" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="o" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -123,55 +135,58 @@
       <jump line="194" column="20" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/warframe.js" />
       <jump line="198" column="20" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/warframe.js" />
       <jump line="231" column="11" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/customConfig/CustomConfig.js" />
+      <jump line="665" column="2" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
+      <jump line="674" column="22" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
+      <jump line="135" column="17" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlbltdCltdCltdCltdCltdCltdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Allow the music clear command to target a specific user</text>
       </register>
       <register name="/" type="4">
-        <text>maybeAddPerm</text>
+        <text>uploadSettings</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9fX0pCg==</text>
+        <text encoding="base64">ZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlbltdCltdCltdCltdCltdCltdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgInR5cGUiOiAiY2F0ZWdvcnkiCg==</text>
+        <text encoding="base64">ICB9fX0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWUiOiAiY2F0cyIgLAo=</text>
+        <text encoding="base64">ICAgICAgInR5cGUiOiAiY2F0ZWdvcnkiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImtleSI6ICJjYXRzIiAsCg==</text>
+        <text encoding="base64">ICAgICAgIm5hbWUiOiAiY2F0cyIgLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJkZXNjcmlwdGlvbiI6ICJjYXQgcHJvdmlkZXIiICwK</text>
+        <text encoding="base64">ICAgICAgImtleSI6ICJjYXRzIiAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gLAo=</text>
+        <text encoding="base64">ICAgICJkZXNjcmlwdGlvbiI6ICJjYXQgcHJvdmlkZXIiICwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0gLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ2YWx1ZSI6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogImJvb2xlYW4iICwK</text>
+        <text encoding="base64">ICAgICAgICAgICJ2YWx1ZSI6IGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>maybeAddPerm</last-search>
+      <last-search>uploadSettings</last-search>
       <last-offset />
-      <last-pattern>maybeAddPerm</last-pattern>
+      <last-pattern>uploadSettings</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>'serialport'</last-substitute>
       <last-dir>1</last-dir>
@@ -179,10 +194,6 @@
     </search>
     <history>
       <history-search>
-        <entry>levelMultiplier:5</entry>
-        <entry>max:</entry>
-        <entry>=</entry>
-        <entry>maix</entry>
         <entry>max</entry>
         <entry>maxPremium</entry>
         <entry>getFinalXP</entry>
@@ -198,6 +209,11 @@
         <entry>perms.check</entry>
         <entry>&quot;pc&quot;</entry>
         <entry>maybeAddPerm</entry>
+        <entry>initSettings</entry>
+        <entry>settings</entry>
+        <entry>site</entry>
+        <entry>config</entry>
+        <entry>uploadSettings</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
@@ -229,6 +245,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
