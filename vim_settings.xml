@@ -9,7 +9,10 @@
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/thing.json" timestamp="1519879658038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/MusicDB.js" timestamp="1520923798648" />
+      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/customConfig/CustomConfig.js" timestamp="1520996882957">
+        <mark key="'" line="231" column="11" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/MusicDB.js" timestamp="1520996476720" />
       <file name="$USER_HOME$/WebstormProjects/evalbot/porttest.js" timestamp="1519526906646">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="6" column="0" />
@@ -119,6 +122,7 @@
       <jump line="202" column="31" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/warframe.js" />
       <jump line="194" column="20" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/warframe.js" />
       <jump line="198" column="20" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/warframe.js" />
+      <jump line="231" column="11" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/customConfig/CustomConfig.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -128,7 +132,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;pc&quot;</text>
+        <text>maybeAddPerm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
@@ -165,9 +169,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;pc&quot;</last-search>
+      <last-search>maybeAddPerm</last-search>
       <last-offset />
-      <last-pattern>&quot;pc&quot;</last-pattern>
+      <last-pattern>maybeAddPerm</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>'serialport'</last-substitute>
       <last-dir>1</last-dir>
@@ -193,6 +197,7 @@
         <entry>'serialport'</entry>
         <entry>perms.check</entry>
         <entry>&quot;pc&quot;</entry>
+        <entry>maybeAddPerm</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
