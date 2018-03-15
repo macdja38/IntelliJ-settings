@@ -69,10 +69,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/essential5/essentialmode/server/classes/player.lua" timestamp="1521095634543" />
       <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
         <mark key="'" line="257" column="9982" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521091411051">
+      <file name="/Dummy.txt" timestamp="1521095947970">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/getToken.js" timestamp="1519966100908">
@@ -81,7 +82,10 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/essential5/essentialmode/server/main.lua" timestamp="1521094344299" />
+      <file name="$USER_HOME$/WebstormProjects/essential5/essentialmode/server/main.lua" timestamp="1521095079667">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="252" column="23" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/objectStorage.js" timestamp="1520998658487">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -143,6 +147,7 @@
       <jump line="665" column="2" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
       <jump line="674" column="22" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
       <jump line="135" column="17" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/WebstormProjects/essential5/essentialmode/server/main.lua" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -152,7 +157,7 @@
         <text>Allow the music clear command to target a specific user</text>
       </register>
       <register name="/" type="4">
-        <text>uploadSettings</text>
+        <text>fivem</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
@@ -189,9 +194,9 @@
       </register>
     </registers>
     <search>
-      <last-search>uploadSettings</last-search>
+      <last-search>fivem</last-search>
       <last-offset />
-      <last-pattern>uploadSettings</last-pattern>
+      <last-pattern>fivem</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>'serialport'</last-substitute>
       <last-dir>1</last-dir>
@@ -199,8 +204,6 @@
     </search>
     <history>
       <history-search>
-        <entry>max</entry>
-        <entry>maxPremium</entry>
         <entry>getFinalXP</entry>
         <entry>xp</entry>
         <entry>xper</entry>
@@ -219,6 +222,8 @@
         <entry>site</entry>
         <entry>config</entry>
         <entry>uploadSettings</entry>
+        <entry>commands</entry>
+        <entry>fivem</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
