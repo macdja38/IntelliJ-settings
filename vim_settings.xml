@@ -19,7 +19,9 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/AppData/Roaming/discordcanary/0.0.203/modules/discord_vigilante/index.js" timestamp="1521270579601" />
+      <file name="$USER_HOME$/WebstormProjects/fetcher/main.js" timestamp="1521835117564">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpclient/index.js" timestamp="1519878414036">
         <mark key="'" line="23" column="34" />
       </file>
@@ -75,6 +77,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1521095947970">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" timestamp="1521835136748">
+        <mark key="'" line="583" column="2" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/getToken.js" timestamp="1519966100908">
         <mark key="[" line="10" column="17" />
@@ -148,6 +153,12 @@
       <jump line="674" column="22" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
       <jump line="135" column="17" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
       <jump line="96" column="0" filename="$USER_HOME$/WebstormProjects/essential5/essentialmode/server/main.lua" />
+      <jump line="475" column="33" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="561" column="69" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="722" column="20" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="248" column="71" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="451" column="22" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="583" column="2" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -157,7 +168,7 @@
         <text>Allow the music clear command to target a specific user</text>
       </register>
       <register name="/" type="4">
-        <text>fivem</text>
+        <text>fetchMessages</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
@@ -194,9 +205,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fivem</last-search>
+      <last-search>fetchMessages</last-search>
       <last-offset />
-      <last-pattern>fivem</last-pattern>
+      <last-pattern>fetchMessages</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>'serialport'</last-substitute>
       <last-dir>1</last-dir>
@@ -204,8 +215,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getFinalXP</entry>
-        <entry>xp</entry>
         <entry>xper</entry>
         <entry>lenore</entry>
         <entry>gemSpawnChance:0.3</entry>
@@ -224,6 +233,8 @@
         <entry>uploadSettings</entry>
         <entry>commands</entry>
         <entry>fivem</entry>
+        <entry>purge</entry>
+        <entry>fetchMessages</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
