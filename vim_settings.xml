@@ -19,11 +19,12 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/fetcher/main.js" timestamp="1521835853641">
-        <mark key="'" line="9" column="11" />
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+      <file name="$USER_HOME$/WebstormProjects/fetcher/main.js" timestamp="1521836919438">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/pvpclient/index.js" timestamp="1519878414036">
         <mark key="'" line="23" column="34" />
@@ -163,6 +164,8 @@
       <jump line="451" column="22" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
       <jump line="583" column="2" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
       <jump line="6" column="11" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
+      <jump line="3" column="42" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
