@@ -19,12 +19,11 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/fetcher/main.js" timestamp="1521836919438">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
+      <file name="$USER_HOME$/WebstormProjects/fetcher/main.js" timestamp="1521857352001">
+        <mark key="[" line="1" column="75" />
+        <mark key="]" line="1" column="75" />
+        <mark key="." line="1" column="75" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/pvpclient/index.js" timestamp="1519878414036">
         <mark key="'" line="23" column="34" />
@@ -69,13 +68,6 @@
         <mark key="^" line="425" column="25" />
         <mark key="." line="425" column="26" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/das-keyboard/lib.js" timestamp="1519885205934">
-        <mark key="[" line="58" column="46" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="o" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
         <mark key="'" line="257" column="9982" />
       </file>
@@ -110,11 +102,6 @@
         <mark key="]" line="32" column="45" />
         <mark key="." line="32" column="45" />
         <mark key="^" line="32" column="45" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/das-keyboard/Keyboard.js" timestamp="1519888367205">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/invites.js" timestamp="1520792216025">
         <mark key="'" line="85" column="21" />
@@ -166,13 +153,14 @@
       <jump line="6" column="11" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
       <jump line="3" column="42" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
       <jump line="2" column="0" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
+      <jump line="12" column="124" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>fetchMessages</text>
@@ -181,31 +169,31 @@
         <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVyZ2VRdWV1ZSA9IHB1cmdlUXVldWUuY29uY2F0KG1lc3NhZ2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvbmUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG90YWxGZXRjaGVkICs9IG1lc3NhZ2VzLmxlbmd0aDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgZXJyb3JNZXNzYWdlID0gZXJyb3I7CiAgICAgICAgZG9uZSA9IHRydWU7CiAgICAgICAgcHVyZ2VRdWV1ZSA9IFtdOwogICAgICAgIHVwZGF0ZVN0YXR1cyhgXGBcYFxgeGxcbiR7ZXJyb3J9XGBcYFxgYCk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlbltdCltdCltdCltdCltdCltdCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgpmdW5jdGlvbiBkb25lKCkgewp9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9fX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVyZ2VRdWV1ZSA9IHB1cmdlUXVldWUuY29uY2F0KG1lc3NhZ2VzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgInR5cGUiOiAiY2F0ZWdvcnkiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWxGZXRjaGVkICs9IG1lc3NhZ2VzLmxlbmd0aDsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWUiOiAiY2F0cyIgLAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgZXJyb3JNZXNzYWdlID0gZXJyb3I7CiAgICAgICAgZG9uZSA9IHRydWU7CiAgICAgICAgcHVyZ2VRdWV1ZSA9IFtdOwogICAgICAgIHVwZGF0ZVN0YXR1cyhgXGBcYFxgeGxcbiR7ZXJyb3J9XGBcYFxgYCk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgImtleSI6ICJjYXRzIiAsCg==</text>
+        <text encoding="base64">ZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlbltdCltdCltdCltdCltdCltdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJkZXNjcmlwdGlvbiI6ICJjYXQgcHJvdmlkZXIiICwK</text>
+        <text encoding="base64">ICB9fX0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
