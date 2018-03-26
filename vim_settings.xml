@@ -12,6 +12,9 @@
       <file name="$USER_HOME$/WebstormProjects/discord.js/src/Constants.js" timestamp="1521088454262">
         <mark key="[" line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/music.js" timestamp="1522041389492">
+        <mark key="'" line="458" column="26" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/evalbot/porttest.js" timestamp="1519526906646">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="6" column="0" />
@@ -67,6 +70,9 @@
         <mark key="]" line="425" column="45" />
         <mark key="^" line="425" column="25" />
         <mark key="." line="425" column="26" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" timestamp="1522041398156">
+        <mark key="'" line="455" column="17" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
         <mark key="'" line="257" column="9982" />
@@ -154,6 +160,11 @@
       <jump line="3" column="42" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
       <jump line="2" column="0" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
       <jump line="12" column="124" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
+      <jump line="340" column="7" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/music.js" />
+      <jump line="458" column="26" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/music.js" />
+      <jump line="411" column="34" filename="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" />
+      <jump line="451" column="81" filename="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" />
+      <jump line="455" column="17" filename="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -163,7 +174,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>fetchMessages</text>
+        <text>premium</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
@@ -200,9 +211,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fetchMessages</last-search>
+      <last-search>premium</last-search>
       <last-offset />
-      <last-pattern>fetchMessages</last-pattern>
+      <last-pattern>premium</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>'serialport'</last-substitute>
       <last-dir>1</last-dir>
@@ -210,7 +221,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xper</entry>
         <entry>lenore</entry>
         <entry>gemSpawnChance:0.3</entry>
         <entry>gemSpawnChance</entry>
@@ -230,6 +240,7 @@
         <entry>fivem</entry>
         <entry>purge</entry>
         <entry>fetchMessages</entry>
+        <entry>premium</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
