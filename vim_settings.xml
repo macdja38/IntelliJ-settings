@@ -83,12 +83,12 @@
       <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
         <mark key="'" line="257" column="9982" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/trash/index.js" timestamp="1522132076148">
+      <file name="$USER_HOME$/WebstormProjects/trash/index.js" timestamp="1522192847210">
         <mark key="a" line="6" column="49" />
         <mark key="[" line="10" column="72" />
-        <mark key="]" line="10" column="72" />
-        <mark key="." line="10" column="72" />
-        <mark key="^" line="10" column="72" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1522044602599">
         <mark key="[" line="0" column="0" />
