@@ -56,6 +56,12 @@
       <file name="$USER_HOME$/WebstormProjects/deepmerge-test/main.js" timestamp="1519967427800">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/app/main.js" timestamp="1522132124456">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="346" column="0" />
+        <mark key="]" line="346" column="0" />
+        <mark key="." line="346" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1520997652555">
         <mark key="[" line="0" column="0" />
       </file>
@@ -76,6 +82,13 @@
       </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
         <mark key="'" line="257" column="9982" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/trash/index.js" timestamp="1522132076148">
+        <mark key="a" line="6" column="49" />
+        <mark key="[" line="10" column="72" />
+        <mark key="]" line="10" column="72" />
+        <mark key="." line="10" column="72" />
+        <mark key="^" line="10" column="72" />
       </file>
       <file name="/Dummy.txt" timestamp="1522044602599">
         <mark key="[" line="0" column="0" />
@@ -103,6 +116,9 @@
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/objectStorage.js" timestamp="1520998658487">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/app/index.html" timestamp="1522131707664">
+        <mark key="[" line="37" column="37" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/mitm_everwing.py" timestamp="1519620900356">
         <mark key="[" line="0" column="0" />
@@ -172,22 +188,14 @@
       <jump line="411" column="34" filename="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" />
       <jump line="451" column="81" filename="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" />
       <jump line="455" column="17" filename="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/WebstormProjects/discord-botclient/src/app/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>eeeeen[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-[]
-ddddddd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY2hhbm5lbCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>this.bot.guilds[this.bot.channelGuildMap[channel.id]].channels.get(cmd.channel.id)</text>
       </register>
       <register name="/" type="4">
         <text>profile</text>
@@ -195,7 +203,10 @@ ddddddd</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY2hhbm5lbCk7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>eeeeen[]
 []
 []
@@ -207,29 +218,26 @@ ddddddd</text>
 []
 ddddddd</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvbmUoKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CgpmdW5jdGlvbiBkb25lKCkgewp9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVyZ2VRdWV1ZSA9IHB1cmdlUXVldWUuY29uY2F0KG1lc3NhZ2VzKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG90YWxGZXRjaGVkICs9IG1lc3NhZ2VzLmxlbmd0aDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVyZ2VRdWV1ZSA9IHB1cmdlUXVldWUuY29uY2F0KG1lc3NhZ2VzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
