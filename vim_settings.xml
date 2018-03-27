@@ -83,12 +83,11 @@
       <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
         <mark key="'" line="257" column="9982" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/trash/index.js" timestamp="1522192847210">
-        <mark key="a" line="6" column="49" />
-        <mark key="[" line="10" column="72" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/trash/index.js" timestamp="1522192941445">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1522044602599">
         <mark key="[" line="0" column="0" />
@@ -138,6 +137,12 @@
         <mark key="]" line="140" column="23" />
         <mark key="." line="140" column="23" />
         <mark key="^" line="140" column="23" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/.eslintrc" timestamp="1522193819779">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/main.js" timestamp="1519621020358">
         <mark key="'" line="3610" column="15" />
@@ -191,11 +196,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/WebstormProjects/discord-botclient/src/app/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY2hhbm5lbCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>this.bot.guilds[this.bot.channelGuildMap[channel.id]].channels.get(cmd.channel.id)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>profile</text>
@@ -204,9 +209,15 @@
         <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY2hhbm5lbCk7Cg==</text>
+        <text encoding="base64">ICAiZXN2ZXJzaW9uIjogNiwK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsaWVudC5ndWlsZHMuc2l6ZSk7CiAgICBjb25zb2xlLmxvZyhjbGllbnQuZ3VpbGRzLmZpcnN0KCkubmFtZSk7CiAgICBjb25zb2xlLmxvZyhjbGllbnQuZ3VpbGRzLmZpcnN0KCkubWVtYmVycy5tYXAobSA9PiBtLnVzZXIudXNlcm5hbWUpKTsKICAgIGNvbnNvbGUubG9nKCJIZWxsbyIpOw==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY2hhbm5lbCk7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>eeeeen[]
 []
 []
@@ -218,26 +229,20 @@
 []
 ddddddd</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvbmUoKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgpmdW5jdGlvbiBkb25lKCkgewp9</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVyZ2VRdWV1ZSA9IHB1cmdlUXVldWUuY29uY2F0KG1lc3NhZ2VzKTsK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -248,7 +253,7 @@ ddddddd</text>
       <last-offset />
       <last-pattern>profile</last-pattern>
       <last-replace>'SerialPort'</last-replace>
-      <last-substitute>'serialport'</last-substitute>
+      <last-substitute>profile</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
