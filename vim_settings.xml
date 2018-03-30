@@ -101,10 +101,11 @@
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" timestamp="1521835136748">
         <mark key="'" line="583" column="2" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Roles.js" timestamp="1522375026286">
-        <mark key="[" line="96" column="16" />
-        <mark key="]" line="96" column="31" />
-        <mark key="." line="96" column="31" />
+      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Roles.js" timestamp="1522379630794">
+        <mark key="[" line="102" column="20" />
+        <mark key="]" line="101" column="43" />
+        <mark key="." line="101" column="43" />
+        <mark key="^" line="101" column="43" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/ConfigDB.js" timestamp="1522044173770">
         <mark key="[" line="214" column="9" />
@@ -121,11 +122,11 @@
         <mark key="'" line="96" column="0" />
         <mark key="[" line="252" column="23" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" timestamp="1522378667937">
+      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" timestamp="1522379734549">
         <mark key="[" line="34" column="9" />
-        <mark key="]" line="34" column="9" />
-        <mark key="^" line="7" column="33" />
-        <mark key="." line="34" column="9" />
+        <mark key="]" line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+        <mark key="." line="33" column="31" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/objectStorage.js" timestamp="1520998658487">
         <mark key="[" line="0" column="0" />
@@ -202,10 +203,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>push({});</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>push({});</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>profile</text>
@@ -214,31 +215,31 @@
         <text encoding="base64">ICAgIHJlcXVpcmUoJy4vcm9sZXMnKS5kZWZhdWx0LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0Cg==</text>
+        <text encoding="base64">ZGQgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9e3MuaW5wdXR9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChzZXJ2ZXJEYXRhLmNoYW5uZWxzICYmIHNlcnZlckRhdGEucm9sZXMpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9e3MuaW5wdXR9CiAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgPGlucHV0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9e3MuaW5wdXR9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvbkNoYW5nZT17dGhpcy5vbkNoYW5nZX0K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9e3MuaW5wdXR9CiAgICApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZT17dGhpcy5zdGF0ZS50ZXh0IHx8ICcnfQo=</text>
+        <text encoding="base64">ICAgICAgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFjZWhvbGRlcj17dGhpcy5wcm9wcy59Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbkNoYW5nZT17dGhpcy5vbkNoYW5nZX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZWRpdENsaWNrZWQgPSB0aGlzLmVkaXRDbGlja2VkLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZT17dGhpcy5zdGF0ZS50ZXh0IHx8ICcnfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMubm9kZUNhbGxiYWNrID0gdGhpcy5ub2RlQ2FsbGJhY2suYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICBwbGFjZWhvbGRlcj17dGhpcy5wcm9wcy59Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
