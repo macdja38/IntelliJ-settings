@@ -121,11 +121,11 @@
         <mark key="'" line="96" column="0" />
         <mark key="[" line="252" column="23" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" timestamp="1522376462253">
-        <mark key="[" line="35" column="7" />
-        <mark key="]" line="35" column="7" />
-        <mark key="^" line="35" column="7" />
-        <mark key="." line="35" column="7" />
+      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" timestamp="1522378667937">
+        <mark key="[" line="34" column="9" />
+        <mark key="]" line="34" column="9" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="34" column="9" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/objectStorage.js" timestamp="1520998658487">
         <mark key="[" line="0" column="0" />
@@ -201,11 +201,11 @@
       <jump line="29" column="43" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>push({});</text>
       </register>
       <register name="-" type="4">
-        <text>placeHolder</text>
+        <text>push({});</text>
       </register>
       <register name="/" type="4">
         <text>profile</text>
