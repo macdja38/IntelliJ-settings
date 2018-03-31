@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="mjs" type="ECMAScript 6" />
+      <mapping pattern="getBox" type="JavaScript" />
       <mapping ext="mjs" type="JavaScript" />
       <mapping pattern="createDB" type="PLAIN_TEXT" />
       <mapping pattern="testFile" type="PLAIN_TEXT" />
