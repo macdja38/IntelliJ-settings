@@ -104,11 +104,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/test18.js" timestamp="1522829080436">
-        <mark key="[" line="144" column="27" />
-        <mark key="]" line="144" column="27" />
-        <mark key="." line="144" column="27" />
-      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/test18.js" timestamp="1522829949013" />
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" timestamp="1521835136748">
         <mark key="'" line="583" column="2" />
       </file>
@@ -317,6 +313,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
