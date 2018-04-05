@@ -63,12 +63,16 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/macdja38/personal-site" />
+          <option name="url" value="https://github.com/killerrin/BellBois" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="macdja38" />
+          <option name="url" value="https://github.com/killerrin/BellBois.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/killerrin/BellBois" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
