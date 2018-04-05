@@ -12,6 +12,9 @@
       <file name="$USER_HOME$/WebstormProjects/discord.js/src/Constants.js" timestamp="1521088454262">
         <mark key="[" line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/music.js" timestamp="1522041389492">
+        <mark key="'" line="458" column="26" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/evalbot/porttest.js" timestamp="1519526906646">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="6" column="0" />
@@ -19,7 +22,12 @@
         <mark key="." line="6" column="2" />
         <mark key="^" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/AppData/Roaming/discordcanary/0.0.203/modules/discord_vigilante/index.js" timestamp="1521270579601" />
+      <file name="$USER_HOME$/WebstormProjects/fetcher/main.js" timestamp="1521858778153">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="7" column="111" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpclient/index.js" timestamp="1519878414036">
         <mark key="'" line="23" column="34" />
       </file>
@@ -48,6 +56,12 @@
       <file name="$USER_HOME$/WebstormProjects/deepmerge-test/main.js" timestamp="1519967427800">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/app/main.js" timestamp="1522201908242">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="346" column="0" />
+        <mark key="]" line="346" column="0" />
+        <mark key="." line="346" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1520997652555">
         <mark key="[" line="0" column="0" />
       </file>
@@ -63,18 +77,30 @@
         <mark key="^" line="425" column="25" />
         <mark key="." line="425" column="26" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/das-keyboard/lib.js" timestamp="1519885205934">
-        <mark key="[" line="58" column="46" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="o" line="0" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" timestamp="1522043531864">
+        <mark key="'" line="455" column="17" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
         <mark key="'" line="257" column="9982" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521095947970">
+      <file name="$USER_HOME$/WebstormProjects/trash/index.js" timestamp="1522192941445">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1522044602599">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" timestamp="1521835136748">
+        <mark key="'" line="583" column="2" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/ConfigDB.js" timestamp="1522044173770">
+        <mark key="[" line="214" column="9" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/getToken.js" timestamp="1519966100908">
         <mark key="[" line="10" column="17" />
@@ -90,6 +116,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/app/index.html" timestamp="1522131707664">
+        <mark key="[" line="37" column="37" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/mitm_everwing.py" timestamp="1519620900356">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,17 +131,18 @@
         <mark key="." line="32" column="45" />
         <mark key="^" line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/das-keyboard/Keyboard.js" timestamp="1519888367205">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/invites.js" timestamp="1520792216025">
         <mark key="'" line="85" column="21" />
         <mark key="[" line="140" column="24" />
         <mark key="]" line="140" column="23" />
         <mark key="." line="140" column="23" />
         <mark key="^" line="140" column="23" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/.eslintrc" timestamp="1522193819779">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/main.js" timestamp="1519621020358">
         <mark key="'" line="3610" column="15" />
@@ -148,67 +178,87 @@
       <jump line="674" column="22" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
       <jump line="135" column="17" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
       <jump line="96" column="0" filename="$USER_HOME$/WebstormProjects/essential5/essentialmode/server/main.lua" />
+      <jump line="475" column="33" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="561" column="69" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="722" column="20" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="248" column="71" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="451" column="22" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="583" column="2" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="6" column="11" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
+      <jump line="3" column="42" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
+      <jump line="12" column="124" filename="$USER_HOME$/WebstormProjects/fetcher/main.js" />
+      <jump line="340" column="7" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/music.js" />
+      <jump line="458" column="26" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/music.js" />
+      <jump line="411" column="34" filename="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" />
+      <jump line="451" column="81" filename="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" />
+      <jump line="455" column="17" filename="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/WebstormProjects/discord-botclient/src/app/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlbltdCltdCltdCltdCltdCltdCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Allow the music clear command to target a specific user</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>fivem</text>
+        <text>profile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICB1cmk6ICdodHRwczovL3EuZGFza2V5Ym9hcmQuY29tL2FwaS8xLjAvc2lnbmFscycsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAiQXV0aG9yaXphdGlvbiI6IGBCZWFyZXIgJHt0aGlzLmJlYXJlcn1gCiAgICAgIH0sCiAgICAgIGJvZHk6IGF0dHJpYnV0ZXMsCiAgICAgIGpzb246IHRydWUsCiAgICB9OwoKICAgIHJldHVybiBycChvcHRpb25zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlbltdCltdCltdCltdCltdCltdCg==</text>
+        <text encoding="base64">ICAiZXN2ZXJzaW9uIjogNiwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9fX0pCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsaWVudC5ndWlsZHMuc2l6ZSk7CiAgICBjb25zb2xlLmxvZyhjbGllbnQuZ3VpbGRzLmZpcnN0KCkubmFtZSk7CiAgICBjb25zb2xlLmxvZyhjbGllbnQuZ3VpbGRzLmZpcnN0KCkubWVtYmVycy5tYXAobSA9PiBtLnVzZXIudXNlcm5hbWUpKTsKICAgIGNvbnNvbGUubG9nKCJIZWxsbyIpOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInR5cGUiOiAiY2F0ZWdvcnkiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY2hhbm5lbCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWUiOiAiY2F0cyIgLAo=</text>
+      <register name="4" type="4">
+        <text>eeeeen[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+ddddddd</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgImtleSI6ICJjYXRzIiAsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJkZXNjcmlwdGlvbiI6ICJjYXQgcHJvdmlkZXIiICwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvbmUoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ2YWx1ZSI6IGZhbHNlCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fivem</last-search>
+      <last-search>profile</last-search>
       <last-offset />
-      <last-pattern>fivem</last-pattern>
+      <last-pattern>profile</last-pattern>
       <last-replace>'SerialPort'</last-replace>
-      <last-substitute>'serialport'</last-substitute>
+      <last-substitute>profile</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getFinalXP</entry>
-        <entry>xp</entry>
-        <entry>xper</entry>
-        <entry>lenore</entry>
-        <entry>gemSpawnChance:0.3</entry>
         <entry>gemSpawnChance</entry>
         <entry>base</entry>
         <entry>base\/coin&quot;</entry>
@@ -224,6 +274,11 @@
         <entry>uploadSettings</entry>
         <entry>commands</entry>
         <entry>fivem</entry>
+        <entry>purge</entry>
+        <entry>fetchMessages</entry>
+        <entry>premium</entry>
+        <entry>&quot;p&quot;</entry>
+        <entry>profile</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
