@@ -6,9 +6,6 @@
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/thing.json" timestamp="1519879658038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/customConfig/CustomConfig.js" timestamp="1520996882957">
-        <mark key="'" line="231" column="11" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/test19.js" timestamp="1522828248082">
         <mark key="[" line="108" column="65" />
         <mark key="]" line="67" column="21" />
@@ -18,26 +15,22 @@
       <file name="$USER_HOME$/WebstormProjects/discord.js/src/Constants.js" timestamp="1521088454262">
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/music.js" timestamp="1522041389492">
-        <mark key="'" line="458" column="26" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/fetcher/main.js" timestamp="1521858778153">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
         <mark key="^" line="7" column="111" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpclient/index.js" timestamp="1519878414036">
-        <mark key="'" line="23" column="34" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" timestamp="1520997613953">
-        <mark key="'" line="135" column="17" />
-        <mark key="[" line="180" column="21" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/index.js" timestamp="1522374823221">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch.js/.gitignore" timestamp="1522993621492">
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="4" />
+        <mark key="^" line="63" column="4" />
+        <mark key="." line="63" column="4" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/main.js" timestamp="1519886598985">
         <mark key="[" line="0" column="0" />
@@ -54,8 +47,8 @@
       <file name="$USER_HOME$/WebstormProjects/untitled1/test.js" timestamp="1520466029008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/warframe.js" timestamp="1520826924635">
-        <mark key="'" line="198" column="20" />
+      <file name="$USER_HOME$/WebstormProjects/twitch.js/test.mjs" timestamp="1522995136192">
+        <mark key="[" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/deepmerge-test/main.js" timestamp="1519967427800">
         <mark key="[" line="0" column="0" />
@@ -75,17 +68,17 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch.js/index.mjs" timestamp="1522993542587">
+        <mark key="[" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/evalbot/main.js" timestamp="1519530433749">
         <mark key="[" line="425" column="26" />
         <mark key="]" line="425" column="45" />
         <mark key="^" line="425" column="25" />
         <mark key="." line="425" column="26" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" timestamp="1522043531864">
-        <mark key="'" line="455" column="17" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/everwing/browser-mobile.js" timestamp="1519622094841">
-        <mark key="'" line="257" column="9982" />
+      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/api/test.mjs.js" timestamp="1522994572748">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/trash/index.js" timestamp="1522192941445">
         <mark key="[" line="4" column="0" />
@@ -93,10 +86,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522044602599">
+      <file name="/Dummy.txt" timestamp="1522993270704">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/lib/encodeURIParams.js" timestamp="1522993323716">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="49" />
-        <mark key="." line="0" column="49" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/index.js" timestamp="1522373204287">
         <mark key="[" line="75" column="0" />
@@ -108,9 +104,6 @@
         <mark key="]" line="100" column="28" />
         <mark key="." line="100" column="28" />
         <mark key="^" line="100" column="28" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" timestamp="1521835136748">
-        <mark key="'" line="583" column="2" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Roles.js" timestamp="1522390759031">
         <mark key="[" line="102" column="22" />
@@ -129,10 +122,6 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/essential5/essentialmode/server/main.lua" timestamp="1521095079667">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="252" column="23" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" timestamp="1522435539226">
         <mark key="[" line="14" column="40" />
         <mark key="]" line="14" column="39" />
@@ -141,6 +130,9 @@
       </file>
       <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/app/index.html" timestamp="1522131707664">
         <mark key="[" line="37" column="37" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/api/index.mjs" timestamp="1522994934642">
+        <mark key="[" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/mitm_everwing.py" timestamp="1519620900356">
         <mark key="[" line="0" column="0" />
@@ -159,6 +151,18 @@
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/lib/encodeURIParams.mjs" timestamp="1522994548704">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch.js/test.js" timestamp="1522995117344">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/package.json" timestamp="1522375387790">
         <mark key="[" line="1" column="20" />
@@ -209,44 +213,44 @@
       <jump line="29" column="43" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>require</text>
       </register>
       <register name="-" type="4">
-        <text>unshift</text>
+        <text>require</text>
       </register>
       <register name="/" type="4">
         <text>profile</text>
       </register>
-      <register name="0" type="4">
-        <text>readline</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGVuY29kZUhlbGl4T2JqZWN0KG9iamVjdCkgewogIHJldHVybiBgPyR7T2JqZWN0LmVudHJpZXMob2JqZWN0KS5tYXAoKFtrZXksIHZhbHVlXSkgPT4gewogICAgaWYgKEFycmF5LmlzQXJyYXkodmFsdWUpKSB7CiAgICAgIHJldHVybiB2YWx1ZS5tYXAodiA9PiBlbmNvZGVLZXlWYWx1ZShrZXksIHYpKQogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIFtlbmNvZGVLZXlWYWx1ZShrZXksIHZhbHVlKV07CiAgICB9CiAgfSkucmVkdWNlKChhLCBiKSA9PiBhLmNvbmNhdChiKSwgW10pLmpvaW4oIiYiKX1gCn0K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICB9</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CmxldCB4TWF4ID0gbWFwWzBdLmxlbmd0aDsKbGV0IHlNYXggPSBtYXAubGVuZ3RoOw==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtYXAucHVzaChyZWFkbGluZSgpLnNwbGl0KCIiKSk7IC8vIG9uZSBsaW5lIG9mIHRoZSBmaXJld2FsbCBncmlkCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmRkZGRvciAobGV0IGkgPSAwOyBpIDwgaGVpZ2h0OyBpKyspIHsK</text>
+        <text encoding="base64">ICBtYXAucHVzaChyZWFkbGluZSgpLnNwbGl0KCIiKSk7IC8vIG9uZSBsaW5lIG9mIHRoZSBmaXJld2FsbCBncmlkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmRkZGRvciAobGV0IGkgPSAwOyBpIDwgaGVpZ2h0OyBpKyspIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigiTG9jYXRpb24gaW52YWxpZCIpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
