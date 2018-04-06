@@ -53,11 +53,10 @@
       <file name="$USER_HOME$/WebstormProjects/deepmerge-test/main.js" timestamp="1519967427800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/app/main.js" timestamp="1522201908242">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="346" column="0" />
-        <mark key="]" line="346" column="0" />
-        <mark key="." line="346" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/chat/index.js" timestamp="1522996086390">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1522828121416">
         <mark key="[" line="0" column="0" />
@@ -122,6 +121,12 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/chat/index.mjs" timestamp="1522996657818">
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="6" column="49" />
+        <mark key="^" line="139" column="13" />
+        <mark key="." line="6" column="49" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" timestamp="1522435539226">
         <mark key="[" line="14" column="40" />
         <mark key="]" line="14" column="39" />
@@ -131,8 +136,11 @@
       <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/app/index.html" timestamp="1522131707664">
         <mark key="[" line="37" column="37" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/api/index.mjs" timestamp="1522994934642">
+      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/api/index.mjs" timestamp="1522996581754">
         <mark key="[" line="0" column="22" />
+        <mark key="]" line="36" column="13" />
+        <mark key="^" line="36" column="13" />
+        <mark key="." line="36" column="13" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/mitm_everwing.py" timestamp="1519620900356">
         <mark key="[" line="0" column="0" />
@@ -214,10 +222,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>require</text>
+        <text>WebSocket = require('ws');</text>
       </register>
       <register name="-" type="4">
-        <text>require</text>
+        <text>WebSocket = require('ws');</text>
       </register>
       <register name="/" type="4">
         <text>profile</text>
@@ -225,32 +233,32 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGVuY29kZUhlbGl4T2JqZWN0KG9iamVjdCkgewogIHJldHVybiBgPyR7T2JqZWN0LmVudHJpZXMob2JqZWN0KS5tYXAoKFtrZXksIHZhbHVlXSkgPT4gewogICAgaWYgKEFycmF5LmlzQXJyYXkodmFsdWUpKSB7CiAgICAgIHJldHVybiB2YWx1ZS5tYXAodiA9PiBlbmNvZGVLZXlWYWx1ZShrZXksIHYpKQogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIFtlbmNvZGVLZXlWYWx1ZShrZXksIHZhbHVlKV07CiAgICB9CiAgfSkucmVkdWNlKChhLCBiKSA9PiBhLmNvbmNhdChiKSwgW10pLmpvaW4oIiYiKX1gCn0K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aSAgICAgICAgbGV0IGFwaSA9IHJlcXVpcmUoJy4uL2FwaS9pbmRleCcpOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CiAgICB9</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CmxldCB4TWF4ID0gbWFwWzBdLmxlbmd0aDsKbGV0IHlNYXggPSBtYXAubGVuZ3RoOw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYXAucHVzaChyZWFkbGluZSgpLnNwbGl0KCIiKSk7IC8vIG9uZSBsaW5lIG9mIHRoZSBmaXJld2FsbCBncmlkCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmRkZGRvciAobGV0IGkgPSAwOyBpIDwgaGVpZ2h0OyBpKyspIHsK</text>
+        <text encoding="base64">ICBtYXAucHVzaChyZWFkbGluZSgpLnNwbGl0KCIiKSk7IC8vIG9uZSBsaW5lIG9mIHRoZSBmaXJld2FsbCBncmlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmRkZGRvciAobGV0IGkgPSAwOyBpIDwgaGVpZ2h0OyBpKyspIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
