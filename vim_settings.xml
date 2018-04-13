@@ -12,11 +12,12 @@
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/videoUtils.js" timestamp="1523588871024">
         <mark key="[" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" timestamp="1523591477017">
-        <mark key="'" line="135" column="17" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" timestamp="1523594093775">
+        <mark key="'" line="125" column="20" />
+        <mark key="[" line="131" column="61" />
+        <mark key="]" line="131" column="36" />
+        <mark key="." line="131" column="36" />
+        <mark key="^" line="131" column="36" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/twitch.js/.gitignore" timestamp="1522993621492">
         <mark key="[" line="63" column="4" />
@@ -143,10 +144,10 @@
       <file name="$USER_HOME$/WebstormProjects/twitch.js/src/api/test.mjs.js" timestamp="1522994572748">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523591497278">
+      <file name="/Dummy.txt" timestamp="1523594439964">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" timestamp="1522435539226">
         <mark key="[" line="14" column="40" />
@@ -222,55 +223,57 @@
       <jump line="455" column="17" filename="$USER_HOME$/WebstormProjects/pvpcraft/lib/Player.js" />
       <jump line="25" column="0" filename="$USER_HOME$/WebstormProjects/discord-botclient/src/app/main.js" />
       <jump line="29" column="43" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" />
+      <jump line="123" column="24" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
+      <jump line="125" column="20" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ci8qKgogKiBsb2cgYmxvY2tpbmcgZXZlbnRz</text>
+        <text encoding="base64">LmNsaWVudC51c2VyLnVzZXJuYW1lLAogICAgICAgICAgdGV4dDogIiIsCiAgICAgICAgICBpY29uX3VybDog</text>
       </register>
       <register name="-" type="4">
         <text>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeu</text>
       </register>
       <register name="/" type="4">
-        <text>profile</text>
+        <text>this.client</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGVuY29kZUhlbGl4T2JqZWN0KG9iamVjdCkgewogIHJldHVybiBgPyR7T2JqZWN0LmVudHJpZXMob2JqZWN0KS5tYXAoKFtrZXksIHZhbHVlXSkgPT4gewogICAgaWYgKEFycmF5LmlzQXJyYXkodmFsdWUpKSB7CiAgICAgIHJldHVybiB2YWx1ZS5tYXAodiA9PiBlbmNvZGVLZXlWYWx1ZShrZXksIHYpKQogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIFtlbmNvZGVLZXlWYWx1ZShrZXksIHZhbHVlKV07CiAgICB9CiAgfSkucmVkdWNlKChhLCBiKSA9PiBhLmNvbmNhdChiKSwgW10pLmpvaW4oIiYiKX1gCn0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">LmNsaWVudC51c2VyLnVzZXJuYW1lLAogICAgICAgICAgdGV4dDogIiIsCiAgICAgICAgICBpY29uX3VybDog</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci8qKgogKiBsb2cgYmxvY2tpbmcgZXZlbnRz</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgYmxvY2tlZChtcyA9PiB7CiAgICBjb25zdCB0ZXh0ID0gYEMke3Byb2Nlc3MuZW52LmlkfS8ke3Byb2Nlc3MuZW52LnNoYXJkc30gYmxvY2tlZCBmb3IgJHttc31tc1xudXAtdGltZSAke3Byb2Nlc3MudXB0aW1lKCl9YDsKICAgIGxldCBhdHRhY2htZW50ID0ge3RleHQsIHRzOiBEYXRlLm5vdygpIC8gMTAwMH07CiAgICBhdHRhY2htZW50LnRpdGxlID0gIkV2ZW50IGxvb3AgYmxvY2tlZCI7CiAgICBhdHRhY2htZW50LmNvbG9yID0gIiNmZjAwMDAiOwogICAgbGV0IGhvb2tPcHRpb25zID0gewogICAgICB1c2VybmFtZTogY2xpZW50LnVzZXIudXNlcm5hbWUsCiAgICAgIHRleHQ6ICIiLAogICAgICBpY29uX3VybDogY2xpZW50LnVzZXIuYXZhdGFyVVJMLAogICAgICBzbGFjazogdHJ1ZSwKICAgIH07CiAgICBob29rT3B0aW9ucy5hdHRhY2htZW50cyA9IFthdHRhY2htZW50XTsKICAgIGxldCBob29rcyA9IGNvbmZpZy5nZXQoImJsb2NrSG9va3MiKTsKICAgIGlmIChob29rcykgewogICAgICBob29rcy5mb3JFYWNoKGhvb2sgPT4gY2xpZW50LnNlbmRXZWJob29rTWVzc2FnZShob29rLCAiIiwgaG9va09wdGlvbnMpCiAgICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICB9KQogICAgICApOwogICAgfQogIH0sIHt0aHJlc2hvbGQ6IDUwMH0pOwp9LCAzMDAwMCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bGV0IFdlYlNvY2tldDsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ci8qKgogKiBsb2cgYmxvY2tpbmcgZXZlbnRz</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IFdlYlNvY2tldDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0KCd1d3MnKS50aGVuKHV3cyAgPT4gV2ViU29ja2V0ID0gdXdzKS5jYXRjaCgoKSA9PiBXZWJTb2NrZXQgPSB3cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aSAgICAgICAgbGV0IGFwaSA9IHJlcXVpcmUoJy4uL2FwaS9pbmRleCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0KCd1d3MnKS50aGVuKHV3cyAgPT4gV2ViU29ja2V0ID0gdXdzKS5jYXRjaCgoKSA9PiBXZWJTb2NrZXQgPSB3cyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aSAgICAgICAgbGV0IGFwaSA9IHJlcXVpcmUoJy4uL2FwaS9pbmRleCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>profile</last-search>
+      <last-search>this.client</last-search>
       <last-offset />
-      <last-pattern>profile</last-pattern>
+      <last-pattern>this.client</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>profile</last-substitute>
       <last-dir>1</last-dir>
@@ -278,7 +281,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gemSpawnChance</entry>
         <entry>base</entry>
         <entry>base\/coin&quot;</entry>
         <entry>requestPromise</entry>
@@ -298,6 +300,7 @@
         <entry>premium</entry>
         <entry>&quot;p&quot;</entry>
         <entry>profile</entry>
+        <entry>this.client</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
