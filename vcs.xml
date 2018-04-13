@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/killerrin/BellBois" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/macdja38/twitch.js.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\macdja38\WebstormProjects" />
