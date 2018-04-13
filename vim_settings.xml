@@ -9,6 +9,9 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="7" column="111" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/videoUtils.js" timestamp="1523588871024">
+        <mark key="[" line="43" column="28" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/twitch.js/.gitignore" timestamp="1522993621492">
         <mark key="[" line="63" column="4" />
         <mark key="]" line="63" column="4" />
@@ -134,10 +137,10 @@
       <file name="$USER_HOME$/WebstormProjects/twitch.js/src/api/test.mjs.js" timestamp="1522994572748">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522999665770">
+      <file name="/Dummy.txt" timestamp="1523588895076">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" timestamp="1522435539226">
         <mark key="[" line="14" column="40" />
@@ -215,11 +218,11 @@
       <jump line="29" column="43" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeu</text>
       </register>
       <register name="-" type="4">
-        <text>t EventEmitter</text>
+        <text>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeu</text>
       </register>
       <register name="/" type="4">
         <text>profile</text>
