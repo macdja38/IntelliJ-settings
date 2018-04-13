@@ -12,6 +12,12 @@
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/videoUtils.js" timestamp="1523588871024">
         <mark key="[" line="43" column="28" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" timestamp="1523591477017">
+        <mark key="'" line="135" column="17" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/twitch.js/.gitignore" timestamp="1522993621492">
         <mark key="[" line="63" column="4" />
         <mark key="]" line="63" column="4" />
@@ -137,7 +143,7 @@
       <file name="$USER_HOME$/WebstormProjects/twitch.js/src/api/test.mjs.js" timestamp="1522994572748">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523588895076">
+      <file name="/Dummy.txt" timestamp="1523591497278">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -219,7 +225,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeu</text>
+        <text encoding="base64">Ci8qKgogKiBsb2cgYmxvY2tpbmcgZXZlbnRz</text>
       </register>
       <register name="-" type="4">
         <text>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeu</text>
@@ -230,32 +236,32 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGVuY29kZUhlbGl4T2JqZWN0KG9iamVjdCkgewogIHJldHVybiBgPyR7T2JqZWN0LmVudHJpZXMob2JqZWN0KS5tYXAoKFtrZXksIHZhbHVlXSkgPT4gewogICAgaWYgKEFycmF5LmlzQXJyYXkodmFsdWUpKSB7CiAgICAgIHJldHVybiB2YWx1ZS5tYXAodiA9PiBlbmNvZGVLZXlWYWx1ZShrZXksIHYpKQogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIFtlbmNvZGVLZXlWYWx1ZShrZXksIHZhbHVlKV07CiAgICB9CiAgfSkucmVkdWNlKChhLCBiKSA9PiBhLmNvbmNhdChiKSwgW10pLmpvaW4oIiYiKX1gCn0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8qKgogKiBsb2cgYmxvY2tpbmcgZXZlbnRz</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IFdlYlNvY2tldDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IFdlYlNvY2tldDsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0KCd1d3MnKS50aGVuKHV3cyAgPT4gV2ViU29ja2V0ID0gdXdzKS5jYXRjaCgoKSA9PiBXZWJTb2NrZXQgPSB3cyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aSAgICAgICAgbGV0IGFwaSA9IHJlcXVpcmUoJy4uL2FwaS9pbmRleCcpOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICB9</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmxldCB4TWF4ID0gbWFwWzBdLmxlbmd0aDsKbGV0IHlNYXggPSBtYXAubGVuZ3RoOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0KCd1d3MnKS50aGVuKHV3cyAgPT4gV2ViU29ja2V0ID0gdXdzKS5jYXRjaCgoKSA9PiBXZWJTb2NrZXQgPSB3cyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aSAgICAgICAgbGV0IGFwaSA9IHJlcXVpcmUoJy4uL2FwaS9pbmRleCcpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICB9</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
