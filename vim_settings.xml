@@ -69,6 +69,11 @@
       <file name="/JavaScript Console" timestamp="1522828121416">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/Permissions.js" timestamp="1523853142306">
+        <mark key="[" line="181" column="24" />
+        <mark key="]" line="181" column="24" />
+        <mark key="." line="181" column="24" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/untitled1/main.js" timestamp="1520148738599">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -126,6 +131,10 @@
         <mark key="]" line="101" column="43" />
         <mark key="." line="101" column="43" />
         <mark key="^" line="101" column="43" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" timestamp="1523852377260">
+        <mark key="'" line="332" column="23" />
+        <mark key="[" line="913" column="38" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/getToken.js" timestamp="1519966100908">
         <mark key="[" line="10" column="17" />
@@ -233,55 +242,66 @@
       <jump line="29" column="43" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" />
       <jump line="123" column="24" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
       <jump line="125" column="20" filename="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" />
+      <jump line="679" column="2" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="579" column="1" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="739" column="44" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="738" column="37" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="810" column="37" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="1377" column="19" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="1392" column="19" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="1411" column="19" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="203" column="22" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="208" column="28" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="332" column="23" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1000001</text>
+        <text encoding="base64">CiAgICAgIGxldCBtZW1iZXIgPSBjaGFubmVsLmd1aWxkLm1lbWJlcnMuZ2V0KHVzZXIuaWQpOwogICAgICBpZiAoIW1lbWJlcikgcmV0dXJuIGZhbHNlOw==</text>
       </register>
       <register name="-" type="4">
-        <text>1000001</text>
+        <text>checkUserGuild</text>
       </register>
       <register name="/" type="4">
-        <text>this.client</text>
+        <text>channel.updated</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LmNsaWVudC51c2VyLnVzZXJuYW1lLAogICAgICAgICAgdGV4dDogIiIsCiAgICAgICAgICBpY29uX3VybDog</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIGxldCBtZW1iZXIgPSBjaGFubmVsLmd1aWxkLm1lbWJlcnMuZ2V0KHVzZXIuaWQpOwogICAgICBpZiAoIW1lbWJlcikgcmV0dXJuIGZhbHNlOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0VGltZW91dCgoKSA9PiB7CiAgYmxvY2tlZChtcyA9PiB7CiAgICBjb25zdCB0ZXh0ID0gYEMke3Byb2Nlc3MuZW52LmlkfS8ke3Byb2Nlc3MuZW52LnNoYXJkc30gYmxvY2tlZCBmb3IgJHttc31tc1xudXAtdGltZSAke3Byb2Nlc3MudXB0aW1lKCl9YDsKICAgIGxldCBhdHRhY2htZW50ID0ge3RleHQsIHRzOiBEYXRlLm5vdygpIC8gMTAwMH07CiAgICBhdHRhY2htZW50LnRpdGxlID0gIkV2ZW50IGxvb3AgYmxvY2tlZCI7CiAgICBhdHRhY2htZW50LmNvbG9yID0gIiNmZjAwMDAiOwogICAgbGV0IGhvb2tPcHRpb25zID0gewogICAgICB1c2VybmFtZTogY2xpZW50LnVzZXIudXNlcm5hbWUsCiAgICAgIHRleHQ6ICIiLAogICAgICBpY29uX3VybDogY2xpZW50LnVzZXIuYXZhdGFyVVJMLAogICAgICBzbGFjazogdHJ1ZSwKICAgIH07CiAgICBob29rT3B0aW9ucy5hdHRhY2htZW50cyA9IFthdHRhY2htZW50XTsKICAgIGxldCBob29rcyA9IGNvbmZpZy5nZXQoImJsb2NrSG9va3MiKTsKICAgIGlmIChob29rcykgewogICAgICBob29rcy5mb3JFYWNoKGhvb2sgPT4gY2xpZW50LnNlbmRXZWJob29rTWVzc2FnZShob29rLCAiIiwgaG9va09wdGlvbnMpCiAgICAgICAgLmNhdGNoKCgpID0+IHsKICAgICAgICB9KQogICAgICApOwogICAgfQogIH0sIHt0aHJlc2hvbGQ6IDUwMH0pOwp9LCAzMDAwMCk7Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge0d1aWxkfSBndWlsZCBDaGFubmVsIHRvIGNoZWNrIGZvciBwZXJtaXNzaW9ucyBpbi4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8qKgogKiBsb2cgYmxvY2tpbmcgZXZlbnRz</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IFdlYlNvY2tldDsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGkgPT09IHRydWUpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0KCd1d3MnKS50aGVuKHV3cyAgPT4gV2ViU29ja2V0ID0gdXdzKS5jYXRjaCgoKSA9PiBXZWJTb2NrZXQgPSB3cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGkgPSBzZWFyY2hGb3JOb2RlKHRoaXMucGVybXMuZGF0YSwgbm9kZUFycmF5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aSAgICAgICAgbGV0IGFwaSA9IHJlcXVpcmUoJy4uL2FwaS9pbmRleCcpOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnBlcm1zLmRhdGEpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this.client</last-search>
+      <last-search>channel.updated</last-search>
       <last-offset />
-      <last-pattern>this.client</last-pattern>
+      <last-pattern>channel.updated</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>profile</last-substitute>
       <last-dir>1</last-dir>
@@ -289,11 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>base</entry>
-        <entry>base\/coin&quot;</entry>
-        <entry>requestPromise</entry>
-        <entry>'serialport'</entry>
-        <entry>perms.check</entry>
         <entry>&quot;pc&quot;</entry>
         <entry>maybeAddPerm</entry>
         <entry>initSettings</entry>
@@ -309,6 +324,11 @@
         <entry>&quot;p&quot;</entry>
         <entry>profile</entry>
         <entry>this.client</entry>
+        <entry encoding="base64">IGlzU2VydmVySWdub3JlZA==</entry>
+        <entry>msglog.whitelist</entry>
+        <entry>checkUserChannel</entry>
+        <entry>moderation.channel.updated</entry>
+        <entry>channel.updated</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
