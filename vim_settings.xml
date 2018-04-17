@@ -177,6 +177,10 @@
         <mark key="." line="32" column="45" />
         <mark key="^" line="32" column="45" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/permissions/Permissions.js" timestamp="1523925890859">
+        <mark key="'" line="75" column="26" />
+        <mark key="[" line="173" column="51" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/.eslintrc" timestamp="1522193819779">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="3" />
@@ -255,6 +259,7 @@
       <jump line="203" column="22" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
       <jump line="208" column="28" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
       <jump line="332" column="23" filename="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" />
+      <jump line="74" column="26" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/permissions/Permissions.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -264,7 +269,7 @@
         <text>message</text>
       </register>
       <register name="/" type="4">
-        <text>channel.updated</text>
+        <text>generateNode</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LmNsaWVudC51c2VyLnVzZXJuYW1lLAogICAgICAgICAgdGV4dDogIiIsCiAgICAgICAgICBpY29uX3VybDog</text>
@@ -301,9 +306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>channel.updated</last-search>
+      <last-search>generateNode</last-search>
       <last-offset />
-      <last-pattern>channel.updated</last-pattern>
+      <last-pattern>generateNode</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>profile</last-substitute>
       <last-dir>1</last-dir>
@@ -311,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;pc&quot;</entry>
         <entry>maybeAddPerm</entry>
         <entry>initSettings</entry>
         <entry>settings</entry>
@@ -331,6 +335,7 @@
         <entry>checkUserChannel</entry>
         <entry>moderation.channel.updated</entry>
         <entry>channel.updated</entry>
+        <entry>generateNode</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
