@@ -60,10 +60,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/nodeTestTest/index.js" timestamp="1524361884075">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
+      <file name="$USER_HOME$/WebstormProjects/nodeTestTest/index.js" timestamp="1524368356469">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/twitch.js/src/lib/ws.js" timestamp="1522997653572">
         <mark key="[" line="1" column="59" />
