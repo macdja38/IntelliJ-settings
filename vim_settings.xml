@@ -3,42 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/WebstormProjects/fetcher/main.js" timestamp="1521858778153">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="7" column="111" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/videoUtils.js" timestamp="1523588871024">
         <mark key="[" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/PvPCraft.js" timestamp="1523594093775">
-        <mark key="'" line="125" column="20" />
-        <mark key="[" line="131" column="61" />
-        <mark key="]" line="131" column="36" />
-        <mark key="." line="131" column="36" />
-        <mark key="^" line="131" column="36" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/node-fdb/package.json" timestamp="1524346191580">
         <mark key="[" line="36" column="32" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/twitch.js/.gitignore" timestamp="1522993621492">
-        <mark key="[" line="63" column="4" />
-        <mark key="]" line="63" column="4" />
-        <mark key="^" line="63" column="4" />
-        <mark key="." line="63" column="4" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/node-fdb/src/FdbOptions.cpp" timestamp="1524350449679">
         <mark key="[" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/nodeTestTest/package.json" timestamp="1524360144978">
         <mark key="[" line="6" column="56" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/das-keyboard/main.js" timestamp="1519886598985">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="36" column="12" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/untitled1/test.js" timestamp="1520466029008">
         <mark key="[" line="0" column="0" />
@@ -54,12 +29,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled1/main.js" timestamp="1520148738599">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/nodeTestTest/index.js" timestamp="1524380323997">
         <mark key="a" line="10" column="19" />
         <mark key="[" line="4" column="21" />
@@ -67,58 +36,16 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/lib/ws.js" timestamp="1522997653572">
-        <mark key="[" line="1" column="59" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/counting/src/main.rs" timestamp="1523850046076">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/trash/index.js" timestamp="1522192941445">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/twitch.js/src/lib/encodeURIParams.js" timestamp="1522993323716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/test18.js" timestamp="1522987041025">
-        <mark key="[" line="2" column="63" />
-        <mark key="]" line="100" column="28" />
-        <mark key="." line="100" column="28" />
-        <mark key="^" line="100" column="28" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Roles.js" timestamp="1522390759031">
-        <mark key="[" line="102" column="22" />
-        <mark key="]" line="101" column="43" />
-        <mark key="." line="101" column="43" />
-        <mark key="^" line="101" column="43" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/das-keyboard/getToken.js" timestamp="1519966100908">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="12" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/chat/index.mjs" timestamp="1522997717422">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/app/index.html" timestamp="1522131707664">
         <mark key="[" line="37" column="37" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/api/index.mjs" timestamp="1523340347080">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/everwing/mitm_everwing.py" timestamp="1519620900356">
         <mark key="[" line="0" column="0" />
@@ -137,23 +64,12 @@
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/thing.json" timestamp="1519879658038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/test19.js" timestamp="1522828248082">
-        <mark key="[" line="108" column="65" />
-        <mark key="]" line="67" column="21" />
-        <mark key="." line="67" column="21" />
-        <mark key="^" line="67" column="21" />
-      </file>
+      <file name="$USER_HOME$/WebstormProjects/nodev10Test/package.json" timestamp="1524606413621" />
       <file name="$USER_HOME$/WebstormProjects/discord.js/src/Constants.js" timestamp="1521088454262">
         <mark key="[" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/twitch.js/src/lib/EventEmitter.js" timestamp="1522997609659">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/test.js" timestamp="1520998672186">
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="88" column="6" />
-        <mark key="^" line="88" column="6" />
-        <mark key="." line="88" column="6" />
       </file>
       <file name="/JavaScript Console" timestamp="1524601238811">
         <mark key="[" line="0" column="0" />
@@ -165,12 +81,6 @@
       </file>
       <file name="$USER_HOME$/WebstormProjects/twitch.js/index.mjs" timestamp="1522993542587">
         <mark key="[" line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/evalbot/main.js" timestamp="1519530433749">
-        <mark key="[" line="425" column="26" />
-        <mark key="]" line="425" column="45" />
-        <mark key="^" line="425" column="25" />
-        <mark key="." line="425" column="26" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/counting/main.js" timestamp="1523849613889">
         <mark key="[" line="0" column="0" />
@@ -189,47 +99,25 @@
         <mark key="]" line="914" column="71" />
         <mark key="." line="914" column="71" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/ExtensibleList.js" timestamp="1522435539226">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="39" />
-        <mark key="^" line="14" column="39" />
-        <mark key="." line="14" column="39" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/node_modules/youtube-dl/lib/youtube-dl.js" timestamp="1524601480878" />
-      <file name="$USER_HOME$/WebstormProjects/das-keyboard/findDasPort.js" timestamp="1519880820116">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="32" column="45" />
-        <mark key="." line="32" column="45" />
-        <mark key="^" line="32" column="45" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/permissions/Permissions.js" timestamp="1523927485280">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/discord-botclient/src/.eslintrc" timestamp="1522193819779">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/package.json" timestamp="1524603859264">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/twitch.js/src/lib/encodeURIParams.mjs" timestamp="1522994548704">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="18" column="1" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/twitch.js/test.js" timestamp="1522995117344">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/config/auth.json" timestamp="1524605920101" />
+      <file name="$USER_HOME$/WebstormProjects/nodev10Test/index.js" timestamp="1524606329431">
+        <mark key="'" line="5" column="55" />
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="5" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -292,46 +180,66 @@
       <jump line="177" column="17" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/permissions/Permissions.js" />
       <jump line="182" column="46" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/permissions/Permissions.js" />
       <jump line="11" column="0" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/permissions/Permissions.js" />
+      <jump line="5" column="21" filename="$USER_HOME$/WebstormProjects/nodev10Test/index.js" />
+      <jump line="14" column="55" filename="$USER_HOME$/WebstormProjects/nodev10Test/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJlcmxwYWNrImRkOiAiZ2l0aHViOmhhbW1lcmFuZGNoaXNlbC9lcmxwYWNrIiwK</text>
+      <register name="&quot;" type="4">
+        <text>onn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;warn&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;speakingStop&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;speakingStart&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;ready&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));</text>
       </register>
       <register name="-" type="4">
-        <text>});</text>
+        <text>})</text>
       </register>
       <register name="/" type="4">
         <text>generateNode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBlcm1zQXJyYXlbcGVybXNBcnJheS5sZW5ndGggLSAxXSkK</text>
+        <text encoding="base64">ICAgIGNvbm4ub24oImVycm9yIiwgY29uc29sZS5lcnJvci5iaW5kKG51bGwsICJlcnJvciIpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJlcmxwYWNrImRkOiAiZ2l0aHViOmhhbW1lcmFuZGNoaXNlbC9lcmxwYWNrIiwK</text>
+      <register name="1" type="4">
+        <text>onn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;warn&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;speakingStop&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;speakingStart&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;ready&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
+    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJzb2RpdW0tbmF0aXZlIjogIl4yLjEuMyIsCg==</text>
+        <text encoding="base64">ICAgICJlcmxwYWNrImRkOiAiZ2l0aHViOmhhbW1lcmFuZGNoaXNlbC9lcmxwYWNrIiwK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICJzb2RpdW0tbmF0aXZlIjogIl4yLjEuMyIsCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICJidWZmZXJ1dGlsIjogIl4zLjAuMyIsCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CnZhciBmdXR1cmUgPSByZXF1aXJlKCcuL2Z1dHVyZScpOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5lZGl0IHx8ICF0aGlzLnN0YXRlLmFwcGx5RW5hYmxlZCkgcmV0dXJuOwogICAgY29uc3QgY2hhbm5lbCA9IHRoaXMudGFyZ2V0Q2hhbm5lbC5pZDsKICAgIGNvbnN0IHVzZXJPckdyb3VwID0gdGhpcy50YXJnZXRVc2VyT3JHcm91cC5pZCA9PT0gJyonID8gJyonIDoKICAgICAgKCh0aGlzLnRhcmdldFVzZXJPckdyb3VwLnIgPyAnZycgOiAndScpICsgdGhpcy50YXJnZXRVc2VyT3JHcm91cC5pZCk7CiAgICBjb25zdCBub2RlVGV4dCA9IHJlbW92ZURvdERvdCh0aGlzLnRhcmdldE5vZGUpOwogICAgY29uc3Qgbm9kZSA9IFtjaGFubmVsLCB1c2VyT3JHcm91cF07CiAgICBub2RlLnB1c2goLi4ubm9kZVRleHQudG9Mb3dlckNhc2UoKS5zcGxpdCgnLicpKTsKICAgIHRoaXMuYXBwbHlQZXJtaXNzaW9uc0NoYW5nZShub2RlLCB0cnVlKTsKICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5lZGl0IHx8ICF0aGlzLnN0YXRlLmFwcGx5RW5hYmxlZCkgcmV0dXJuOwogICAgY29uc3QgY2hhbm5lbCA9IHRoaXMudGFyZ2V0Q2hhbm5lbC5pZDsKICAgIGNvbnN0IHVzZXJPckdyb3VwID0gdGhpcy50YXJnZXRVc2VyT3JHcm91cC5pZCA9PT0gJyonID8gJyonIDoKICAgICAgKCh0aGlzLnRhcmdldFVzZXJPckdyb3VwLnIgPyAnZycgOiAndScpICsgdGhpcy50YXJnZXRVc2VyT3JHcm91cC5pZCk7CiAgICBjb25zdCBub2RlVGV4dCA9IHJlbW92ZURvdERvdCh0aGlzLnRhcmdldE5vZGUpOwogICAgY29uc3Qgbm9kZSA9IFtjaGFubmVsLCB1c2VyT3JHcm91cF07CiAgICBub2RlLnB1c2goLi4ubm9kZVRleHQudG9Mb3dlckNhc2UoKS5zcGxpdCgnLicpKTsKICAgIHRoaXMuYXBwbHlQZXJtaXNzaW9uc0NoYW5nZShub2RlLCBmYWxzZSk7CiAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICByZW1vdmVEb3REb3Qoc3RyaW5nKSB7CiAgICBjb25zdCBjbGVhblN0cmluZyA9IHN0cmluZy5yZXBsYWNlKC8uLi9nLCAnJyk7CiAgICBpZiAoY2xlYW5TdHJpbmcgPT09IHN0cmluZykgcmV0dXJuIHN0cmluZzsKICAgIGlmIChjbGVhblN0cmluZyAhPT0gc3RyaW5nKSByZXR1cm4gdGhpcy5yZW1vdmVEb3REb3Qoc3RyaW5nKTsKICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBlcm1zQXJyYXlbcGVybXNBcnJheS5sZW5ndGggLSAxXSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge1VzZXIgfCBNZW1iZXJ9IHVzZXIgVXNlciBvYmplY3QgdG8gdXNlIGluIHBlcm1pc3Npb25zIHNlYXJjaC4K</text>
+        <text encoding="base64">ICAgICAgaWYgKHBlcm1zQXJyYXlbcGVybXNBcnJheS5sZW5ndGggLSAxXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
