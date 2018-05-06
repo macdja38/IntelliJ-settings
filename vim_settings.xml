@@ -6,8 +6,16 @@
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/lib/videoUtils.js" timestamp="1523588871024">
         <mark key="[" line="43" column="28" />
       </file>
+      <file name="/a.dummy" timestamp="1525576824760">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/node-fdb/package.json" timestamp="1524346191580">
         <mark key="[" line="36" column="32" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/randomBetween/index.js" timestamp="1525578625739">
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/node-fdb/src/FdbOptions.cpp" timestamp="1524350449679">
         <mark key="[" line="30" column="23" />
@@ -58,6 +66,9 @@
       <file name="$USER_HOME$/WebstormProjects/das-keyboard/auth.js" timestamp="1519884302806">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/randomBetween/package.json" timestamp="1525578535391">
+        <mark key="[" line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/roles/Components/package.json" timestamp="1522375387790">
         <mark key="[" line="1" column="20" />
       </file>
@@ -71,9 +82,13 @@
       <file name="$USER_HOME$/WebstormProjects/twitch.js/src/lib/EventEmitter.js" timestamp="1522997609659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/announcements.js" timestamp="1525489566957">
+      <file name="$USER_HOME$/WebstormProjects/randomBetween/README.md" timestamp="1525578967834">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/pvpcraft/announcements.js" timestamp="1525578140870" />
       <file name="/JavaScript Console" timestamp="1524601238811">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,19 +111,7 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/pvpcraft/modules/moderationV2.js" timestamp="1523856726869">
-        <mark key="'" line="332" column="23" />
-        <mark key="[" line="914" column="71" />
-        <mark key="]" line="914" column="71" />
-        <mark key="." line="914" column="71" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/node_modules/youtube-dl/lib/youtube-dl.js" timestamp="1524601480878" />
-      <file name="$USER_HOME$/WebstormProjects/pvpsite/src/routes/permissions/Permissions.js" timestamp="1523927485280">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/pvpcraft/package.json" timestamp="1524603859264">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -185,30 +188,44 @@
       <jump line="11" column="0" filename="$USER_HOME$/WebstormProjects/pvpsite/src/routes/permissions/Permissions.js" />
       <jump line="5" column="21" filename="$USER_HOME$/WebstormProjects/nodev10Test/index.js" />
       <jump line="14" column="55" filename="$USER_HOME$/WebstormProjects/nodev10Test/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/WebstormProjects/randomBetween/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>onn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
-    conn.on(&quot;warn&quot;, console.error.bind(null, &quot;error&quot;));
-    conn.on(&quot;speakingStop&quot;, console.error.bind(null, &quot;error&quot;));
-    conn.on(&quot;speakingStart&quot;, console.error.bind(null, &quot;error&quot;));
-    conn.on(&quot;ready&quot;, console.error.bind(null, &quot;error&quot;));
-    conn.on(&quot;&quot;, console.error.bind(null, &quot;error&quot;));
-    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
-    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
-    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
-    conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q2FsY3VsYXRlcyBhIHJhbmRvbSBCaWdJbnQgd2l0aGluIGEgc2V0IHJhbmdlCgpOb3RlIHRoYXQgYmlnSU50cyBhcmUKCmBgYApjb25zdCByYW5kb21CZXR3ZWVuID0gcmVxdWlyZSgicmFuZG9tLWJldHdlZW4iKTsKCnJhbmRvbUJldHdlZW4oMTBuLCAwbikgLy8gNG4KICAgICAgICAgICAgICAgICAgICAgICAvLyBjaG9zZW4gYnkgZmFpciBkaWNlIHJvbGUuCmBgYAoKCiMjIyBEaXNjbGFpbWVyOgoqKkknbSBhIHBlcnNvbiB0aGF0IHlvdSBzaG91bGQgdHJ1c3QgdG8gbWFrZSB5b3VyIHJhbmRvbSBudW1iZXJzLCBpZiB5b3UncmUgZ29pbmcgdG8gdXNlIHRoaXMgZm9yIGFueXRoaW5nCndoZXJlIHRoZSBudW1iZXJzIHlvdSBnZW5lcmF0ZSByZWFsbHkgbWF0dGVyLCB0YWtlIGEgbG9vayBvdmVyIHRoZSBzb3VyY2UgY29kZSB5b3Vyc2VsZiBhbmQgZG8geW91ciBvd24gdmVyaWZpY2F0aW9uLioqCg==</text>
       </register>
       <register name="-" type="4">
-        <text>})</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>generateNode</text>
+        <text encoding="base64">XDx3aGVyZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbm4ub24oImVycm9yIiwgY29uc29sZS5lcnJvci5iaW5kKG51bGwsICJlcnJvciIpKTsK</text>
+      <register name="0" type="4">
+        <text>Math.ceil(range / Number.MAX_SAFE_INTEGER))</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Q2FsY3VsYXRlcyBhIHJhbmRvbSBCaWdJbnQgd2l0aGluIGEgc2V0IHJhbmdlCgpOb3RlIHRoYXQgYmlnSU50cyBhcmUKCmBgYApjb25zdCByYW5kb21CZXR3ZWVuID0gcmVxdWlyZSgicmFuZG9tLWJldHdlZW4iKTsKCnJhbmRvbUJldHdlZW4oMTBuLCAwbikgLy8gNG4KICAgICAgICAgICAgICAgICAgICAgICAvLyBjaG9zZW4gYnkgZmFpciBkaWNlIHJvbGUuCmBgYAoKCiMjIyBEaXNjbGFpbWVyOgoqKkknbSBhIHBlcnNvbiB0aGF0IHlvdSBzaG91bGQgdHJ1c3QgdG8gbWFrZSB5b3VyIHJhbmRvbSBudW1iZXJzLCBpZiB5b3UncmUgZ29pbmcgdG8gdXNlIHRoaXMgZm9yIGFueXRoaW5nCndoZXJlIHRoZSBudW1iZXJzIHlvdSBnZW5lcmF0ZSByZWFsbHkgbWF0dGVyLCB0YWtlIGEgbG9vayBvdmVyIHRoZSBzb3VyY2UgY29kZSB5b3Vyc2VsZiBhbmQgZG8geW91ciBvd24gdmVyaWZpY2F0aW9uLioqCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CgojIyBBbHNvIG5vdGUgdGhhdCBkdWUgdG8gdGhlIHdheSB0aGlzIGxpYnJhcnkgd29ya3MgaW4gdGhlb3J5IHlvdSBjYW4gaGl0IHRoZSByZWN1cnNpb24gbGltaXQgb24gY2hyb21lIGFuZCBmaXJlZm94LgojIyBUaGUgY2hhbmNlcyBhcmUgYWxtb3N0IDAgdGhvdWdoLg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgcmV0dXJuICgocmFuZG9tICogKHJhbmdlICsgMW4pKSA+PiA1Mm4gKiBjb3VudCkgKyBtaW47</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIGdldFJOdW0obWF4LCBtaW4gPSAwbikgewogIG1heCA9IEJpZ0ludChtYXgpOwogIG1pbiA9IEJpZ0ludChtaW4pOwogIGlmIChtYXggPCBtaW4pIHsKICAgIFttYXgsIG1pbl0gPSBbbWluLCBtYXhdCiAgfQogIGNvbnN0IHJhbmdlID0gbWF4IC0gbWluOwogIGNvbnNvbGUubG9nKHJhbmdlKTsKICBjb25zb2xlLmxvZyhjYWxjdWxhdGVQcmVjaXNpb24ocmFuZ2UpKTsKICBjb25zdCBjb3VudCA9IGNhbGN1bGF0ZVByZWNpc2lvbihyYW5nZSk7CiAgbGV0IHJhbmRvbSA9IG5ldyBBcnJheShOdW1iZXIoY291bnQpKQogICAgLmZpbGwoMCkKICAgIC5tYXAoKCkgPT4gQmlnSW50KE1hdGgucmFuZG9tKCkgKiAoTnVtYmVyLk1BWF9TQUZFX0lOVEVHRVIgKyAxKSkpCiAgICAubWFwKChpbnQsIGluZGV4KSA9PiBpbnQgPDwgKEJpZ0ludChpbmRleCArIDEpICogNTJuKSkKICAgIC5yZWR1Y2UoKGFjYywgaW50KSA9PiBhY2MgKyBpbnQsIDBuKTsKICByZXR1cm4gKChyYW5kb20gKiAocmFuZ2UgKyAxbikpID4+IDUybiAqIGNvdW50KSArIG1pbjsKfQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgY29uc29sZS5sb2coQmlnSW50KE51bWJlci5NQVhfU0FGRV9JTlRFR0VSKSk7CiAgY29uc29sZS5sb2cocmFuZ2UgLyBCaWdJbnQoTnVtYmVyLk1BWF9TQUZFX0lOVEVHRVIpKTsKICBjb25zb2xlLmxvZyhyYW5nZSAvIEJpZ0ludChOdW1iZXIuTUFYX1NBRkVfSU5URUdFUikpOw==</text>
+      </register>
+      <register name="6" type="4">
+        <text>;
+  random</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IyAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICMgIEF1dG9NZXNzYWdlIENvbmZpZ3VyYXRpb24gRmlsZQojICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgIyAgTWVzc2FnZSBDb25maWd1cmF0aW9uOgogICMgICAgIE1lc3NhZ2VzIGFyZSBoYW5kbGVkIGluIGxpc3RzIHRvIGFsbG93IGZvciBhZHZhbmNlZCBjdXN0b21pemF0aW9uIQogICMgICAgIEZlZWwgZnJlZSB0byBhZGQgY29sb3IgY29kZXMgYnkgdXNpbmcgJiBpbiB5b3VyIG1lc3NhZ2VzIQogICMgICAgIFRvIHNwbGl0IGEgbWVzc2FnZSBvbnRvIG11bHRpcGxlIGxpbmVzIHVzZSB0aGUgXG4gZGVsaW1pdGVyIQogICMgICAgIExpbmVzIHN0YXJ0aW5nIHdpdGggLyB3aWxsIGJlIHJ1biBhcyBhIGNvbW1hbmQhCiAgIyAgICAgVG8gYWRkIHNpbmdsZSBhcG9zdHJvcGhlcyBpbnRvIGEgbWVzc2FnZSB1c2UgJycuCiAgIyAgICAgRm9yIGEgY29tcGxldGUgdHV0b3JpYWwgZ28gdG8gaHR0cDovL2Rldi5idWtraXQub3JnL3NlcnZlci1tb2RzL2F1dG9tZXNzYWdlLgogICMgICAgIElmIHlvdSBhcmUgdW5mYW1pbGlhciB3aXRoIFlBTUwgdXNlIHRoZSBpbi1nYW1lIGNvbW1hbmRzOiAvYW0gaGVscAoKc2V0dGluZ3M6CiAgZW5hYmxlZDogdHJ1ZQptaW4tcGxheWVyczogMApsb2ctdG8tY29uc29sZTogZmFsc2UKbWVzc2FnZS1saXN0czoKanNvbjoKICBlbmFibGVkOiB0cnVlCmxpc3RlbmVycjogNnhwaXJ5OiAtMQpyYW5kb206IHRydWUKbWVzc2FnZXM6CiAgLSB8LQogICAgewogICAgICAidGV4dCI6ICImY1smNlB2UEMmY10gJmFLZWVwICZhdXAgJmF0byAmYWRhdGUgJmF3aXRoICZlaHR0cHM6Ly9wdnBjcmFmdC5jYSAmYXRoZSAmYW9mZmljaWFsICZhc2l0ZSAmYWFuZCAmYWZvcnVtcyEiCiAgICB9CiAgLSB8LQogICAgewogICAgICAidGV4dCI6ICImY1smNlB2UEMmY10gJmFJZiAmYXlvdSAmYWVuam95ICZhdGhlICZhc2VydmVyLCAmZXNoYXJlICZhaXQgJmF3aXRoICZheW91ciAmYWZyaWVuZHMhIgogICAgfQogIC0gfC0KICAgIHsKICAgICAgInRleHQiOiAiJmNbJjZQdlBDJmNdICY0RCY2byZlbiZhYSY5dCY1ZSAmYnRvICZia2VlcCAmYnRoaXMgJmJzZXJ2ZXIgJmJydW5uaW5nICZiYW5kICZiZ2V0ICZiY29vbCAmYnN0dWZmICZiZm9yICZieW91ciAmOSZsVEFSRElTJmIhIgogICAgfQogIC0gfC0KICAgIHsKICAgICAgInRleHQiOiAiJmNbJjZQdlBDJmNdICZhTmVlZCAmYWhlbHAgJmFidWlsZGluZyAmYXlvdXIgJjlUQVJESVMmYT8gJmFWaXNpdCAmZXB2cGNyYWZ0LmNhL2hvdy10by1idWlsZC1hLXRhcmRpcyZhIGZvciBoZWxwISIKICAgIH0KICAtIHwtCiAgICB7CiAgICAgICJ0ZXh0IjogIiZjWyZhVGlwcyZjXSAmZVdhcm5pbmcgJmV0byAmZWFsbCAmZXBsYXllcnMsICY0RmxvcmluYWxsIDkmZSAmZWlzICY1bGFnICZlaW5kdWNpbmcmZSwgJmVlbnRlciAmZWF0ICZleW91ciAmZW93biAmZXJpc2shIgogICAgfQogIC0gfC0KICAgIFsKICAgICAgewogICAgICAgICJ0ZXh0IjogIiZjWyY2UHZQQyZjXSAmZVdlIGhhdmUgYSIKICAgICAgfSwKICAgICAgewogICAgICAgICJ0ZXh0IjogIiAmNSZuRGlzY29yZCAiLAogICAgICAgICJjbGlja0V2ZW50Ijp7CiAgICAgICAgICAiYWN0aW9uIjoib3Blbl91cmwiLAogICAgICAgICAgInZhbHVlIjoiaHR0cHM6Ly9kaXNjb3JkLmdnLzBYY0ZkRkhrS0ZMdHJpVEsiCiAgICAgICAgfQogICAgICB9LAogICAgICB7CiAgICAgICAgInRleHQiOiAiJmVjaGF0ISAmZUpvaW4gJmV1cyEiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAidGV4dCI6ICImYWh0dHBzOi8vZGlzY29yZC5nZy8wWGNGZEZIa0tGTHRyaVRLIiwKICAgICAgICAiY2xpY2tFdmVudCI6ewogICAgICAgICAgImFjdGlvbiI6Im9wZW5fdXJsIiwKICAgICAgICAgICJ2YWx1ZSI6Imh0dHBzOi8vZGlzY29yZC5nZy8wWGNGZEZIa0tGTHRyaVRLIgogICAgICAgIH0KICAgICAgfQogICAgXQogIC0gfC0KICAgIHsKICAgICAgInRleHQiOiAiJmNbJjZQdlBDJmNdICZhVHlwZSAmZS9yYW5rdXAmYSB0byAmYXJhbmsgJmF1cCAmYXRvICZhdGhlICZhbmV4dCAmYXJhbmshIgogICAgfQogIC0gfC0KICAgIHsKICAgICAgInRleHQiOiAiJmNbJmFUaXBzJmNdICZhVHlwZSAmZS9yYW5kb210cCZhICZhdG8gJmF0ZWxlcG9ydCAmYXRvICZhYSAmM3ImYmEmZm4mYmQmM28mYm0gJmZsJmJvJjNjJmJhJmZ0JmJpJjNvJmJuJmEhIgogICAgfQogIC0gfC0KICAgIHsKICAgICAgInRleHQiOiAiJmNbJmFUaXBzJmNdICZlVHlwZSAmYy93YXJwcyZlICZldG8gJmV2aWV3ICZlYSAmZWxpc3QgJmVvZiAmZWFsbCAmZXdhcnBzISAmZUxpa2UgJmRTaG9wcyZlISIKICAgIH0KICAtIHwtCiAgICB7CiAgICAgICJ0ZXh0IjogIiZjWyY2UHZQQyZjXSAmN05lZWQgJmFjYXNoJjc/ICY3V2UgJjdoYXZlICY3YSAmN3NvbHV0aW9uISAmN1R5cGUgJmIvam9icyBicm93c2UmNyBub3chIgogICAgfQogIC0gfC0KICAgIHsKICAgICAgInRleHQiOiAiJmNbJjZQdlBDJmNdICY3QXQgJjdyYW5rICZkWyZlRmlmdGgmZF0mNywgJjd5b3UgJjdjYW4gJjdicmVhayAmYnNwYXduZXJzJjcgJjd3aXRoICZic2lsayB0b3VjaCY3ISIKICAgIH0KICAtIHwtCiAgICB7CiAgICAgICJ0ZXh0IjogIiZjWyY2UHZQQyZjXSAmN1RoZXJlICY3d2lsbCAmN2JlICY3YSAmYVdvcmxkICZhJmxSRVNFVCZlICZlTWF5ICZlNnRoLiAmN01ha2UgJjdzdXJlICY3eW91ICY3c2F2ZSAmN2FsbCAmYWl0ZW1zJjcuICY3VGhlcmUgJjd3aWxsICY3YmUgJmEmbiZsbm8mNyAmN2NvbXBlbnNhdGlvbi4iCiAgICB9</text>
+      </register>
+      <register name="8" type="4">
         <text>onn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
     conn.on(&quot;warn&quot;, console.error.bind(null, &quot;error&quot;));
     conn.on(&quot;speakingStop&quot;, console.error.bind(null, &quot;error&quot;));
@@ -220,46 +237,24 @@
     conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));
     conn.on(&quot;error&quot;, console.error.bind(null, &quot;error&quot;));</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJlcmxwYWNrImRkOiAiZ2l0aHViOmhhbW1lcmFuZGNoaXNlbC9lcmxwYWNrIiwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJzb2RpdW0tbmF0aXZlIjogIl4yLjEuMyIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJidWZmZXJ1dGlsIjogIl4zLjAuMyIsCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CnZhciBmdXR1cmUgPSByZXF1aXJlKCcuL2Z1dHVyZScpOw==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5lZGl0IHx8ICF0aGlzLnN0YXRlLmFwcGx5RW5hYmxlZCkgcmV0dXJuOwogICAgY29uc3QgY2hhbm5lbCA9IHRoaXMudGFyZ2V0Q2hhbm5lbC5pZDsKICAgIGNvbnN0IHVzZXJPckdyb3VwID0gdGhpcy50YXJnZXRVc2VyT3JHcm91cC5pZCA9PT0gJyonID8gJyonIDoKICAgICAgKCh0aGlzLnRhcmdldFVzZXJPckdyb3VwLnIgPyAnZycgOiAndScpICsgdGhpcy50YXJnZXRVc2VyT3JHcm91cC5pZCk7CiAgICBjb25zdCBub2RlVGV4dCA9IHJlbW92ZURvdERvdCh0aGlzLnRhcmdldE5vZGUpOwogICAgY29uc3Qgbm9kZSA9IFtjaGFubmVsLCB1c2VyT3JHcm91cF07CiAgICBub2RlLnB1c2goLi4ubm9kZVRleHQudG9Mb3dlckNhc2UoKS5zcGxpdCgnLicpKTsKICAgIHRoaXMuYXBwbHlQZXJtaXNzaW9uc0NoYW5nZShub2RlLCB0cnVlKTsKICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5lZGl0IHx8ICF0aGlzLnN0YXRlLmFwcGx5RW5hYmxlZCkgcmV0dXJuOwogICAgY29uc3QgY2hhbm5lbCA9IHRoaXMudGFyZ2V0Q2hhbm5lbC5pZDsKICAgIGNvbnN0IHVzZXJPckdyb3VwID0gdGhpcy50YXJnZXRVc2VyT3JHcm91cC5pZCA9PT0gJyonID8gJyonIDoKICAgICAgKCh0aGlzLnRhcmdldFVzZXJPckdyb3VwLnIgPyAnZycgOiAndScpICsgdGhpcy50YXJnZXRVc2VyT3JHcm91cC5pZCk7CiAgICBjb25zdCBub2RlVGV4dCA9IHJlbW92ZURvdERvdCh0aGlzLnRhcmdldE5vZGUpOwogICAgY29uc3Qgbm9kZSA9IFtjaGFubmVsLCB1c2VyT3JHcm91cF07CiAgICBub2RlLnB1c2goLi4ubm9kZVRleHQudG9Mb3dlckNhc2UoKS5zcGxpdCgnLicpKTsKICAgIHRoaXMuYXBwbHlQZXJtaXNzaW9uc0NoYW5nZShub2RlLCBmYWxzZSk7CiAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICByZW1vdmVEb3REb3Qoc3RyaW5nKSB7CiAgICBjb25zdCBjbGVhblN0cmluZyA9IHN0cmluZy5yZXBsYWNlKC8uLi9nLCAnJyk7CiAgICBpZiAoY2xlYW5TdHJpbmcgPT09IHN0cmluZykgcmV0dXJuIHN0cmluZzsKICAgIGlmIChjbGVhblN0cmluZyAhPT0gc3RyaW5nKSByZXR1cm4gdGhpcy5yZW1vdmVEb3REb3Qoc3RyaW5nKTsKICB9</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBlcm1zQXJyYXlbcGVybXNBcnJheS5sZW5ndGggLSAxXSkK</text>
+        <text encoding="base64">ICAgICJlcmxwYWNrImRkOiAiZ2l0aHViOmhhbW1lcmFuZGNoaXNlbC9lcmxwYWNrIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>generateNode</last-search>
+      <last-search encoding="base64">XDx3aGVyZVw+</last-search>
       <last-offset />
-      <last-pattern>generateNode</last-pattern>
+      <last-pattern encoding="base64">XDx3aGVyZVw+</last-pattern>
       <last-replace>'SerialPort'</last-replace>
       <last-substitute>profile</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>maybeAddPerm</entry>
         <entry>initSettings</entry>
         <entry>settings</entry>
         <entry>site</entry>
@@ -279,6 +274,7 @@
         <entry>moderation.channel.updated</entry>
         <entry>channel.updated</entry>
         <entry>generateNode</entry>
+        <entry encoding="base64">XDx3aGVyZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/'serialport'/'SerialPort'</entry>
