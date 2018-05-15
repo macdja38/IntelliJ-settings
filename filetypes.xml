@@ -5,6 +5,7 @@
       <mapping pattern="getBox" type="JavaScript" />
       <mapping ext="mjs" type="JavaScript" />
       <mapping pattern="createDB" type="PLAIN_TEXT" />
+      <mapping pattern="ueoa" type="PLAIN_TEXT" />
       <mapping pattern="testFile" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
