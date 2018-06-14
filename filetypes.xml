@@ -3,14 +3,12 @@
     <extensionMap>
       <mapping pattern=".env.production" type=".env file" />
       <mapping pattern=".env.local" type=".env file" />
-      <removed_mapping ext="mjs" type="ECMAScript 6" />
       <mapping pattern="getBox" type="JavaScript" />
-      <mapping ext="mjs" type="JavaScript" />
-      <mapping pattern="ueoa" type="PLAIN_TEXT" />
       <mapping pattern="createDB" type="PLAIN_TEXT" />
+      <mapping pattern="ueoa" type="PLAIN_TEXT" />
       <mapping pattern="testFile" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
