@@ -4,10 +4,9 @@
       <mapping pattern=".env.production" type=".env file" />
       <mapping pattern=".env.local" type=".env file" />
       <mapping pattern="getBox" type="JavaScript" />
-      <mapping pattern="createDB" type="PLAIN_TEXT" />
       <mapping pattern="ueoa" type="PLAIN_TEXT" />
+      <mapping pattern="createDB" type="PLAIN_TEXT" />
       <mapping pattern="testFile" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
